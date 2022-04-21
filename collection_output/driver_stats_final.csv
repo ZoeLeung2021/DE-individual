@@ -1,0 +1,790 @@
+,id,first_name,last_name,full_name,birthday,rookie_year,gender,country,birth_place,twitter,height,weight,series
+0,06c9c0f9-392a-4f0e-aae7-39bb417af02f,Matt,DiBenedetto,Matt DiBenedetto,1991-07-27,2015.0,M,UNITED STATES,"Grass Valley, California, United States",mattdracing,nan value,nan value,cw
+1,4c71e8fa-6960-4c12-be70-92f4aa3d35d4,Dean,Thompson,Dean Thompson,2003-08-30,2022.0,M,UNITED STATES,"Anaheim, California, United States",nan value,nan value,nan value,cw
+2,b1674f2f-dbc1-4c70-8fda-bb541fc39b04,Jordan,Anderson,Jordan Anderson,1991-04-15,2021.0,M,UNITED STATES,"Forest Acres, South Carolina, United States",j66anderson,nan value,nan value,cw
+3,efa436b5-a014-407a-b884-33d66a5f5f58,Brad,Perez,Brad Perez,1997-01-21,2022.0,M,UNITED STATES,"Hollywood, Florida, United States",nan value,nan value,nan value,cw
+4,919576ea-564f-46d0-8da2-5091eeb937de,Keith,McGee,Keith McGee,1981-05-07,2021.0,M,UNITED STATES,"Eagle River, Alaska, United States",nan value,nan value,nan value,cw
+5,b1f0ccce-7de3-4eff-8e45-9d7e0c6ea98e,Tyler,Hill,Tyler Hill,1994-06-02,2019.0,M,UNITED STATES,"Port Tobacco, Maryland, United States",nan value,nan value,nan value,cw
+6,b1f0ccce-7de3-4eff-8e45-9d7e0c6ea98e,Tyler,Hill,Tyler Hill,1994-06-02,2019.0,M,UNITED STATES,"Port Tobacco, Maryland, United States",nan value,nan value,nan value,cw
+7,8cc72133-c5ea-49c1-9a23-f4db5464d42f,Kris,Wright,Kris Wright,1994-07-17,2021.0,M,UNITED STATES,"Wexford, Pennsylvania, United States",nan value,nan value,nan value,cw
+8,9c0ead27-e7d3-4861-9e2d-a77e166dc955,Grant,Enfinger,Grant Enfinger,1985-01-22,2017.0,M,UNITED STATES,"Fairhope, Alabama, United States",GrantEnfinger,nan value,nan value,cw
+9,1969b050-f0ce-4bb7-9d89-1f9fc00a336a,Andrew,Gordon,Andrew Gordon,1990-04-18,2021.0,M,UNITED STATES,"Columbia, South Carolina, United States",nan value,nan value,nan value,cw
+10,4dfbbfdb-ecc5-4590-b68e-8d86a82fb2b8,Dillon,Steuer,Dillon Steuer,2002-04-05,2022.0,M,UNITED STATES,"Bohemia, New York, United States",nan value,nan value,nan value,cw
+11,5b2a4c69-46ea-4b41-96ec-ec27d47ae89c,Matt,Mills,Matt Mills,1996-11-14,2016.0,M,UNITED STATES,"New Philadelphia, Ohio, United States",nan value,nan value,nan value,cw
+12,d7fa1f2a-ebc5-4609-b1d4-2dff05797d8b,Justin S,Carroll,Justin S Carroll,1995-12-08,2022.0,M,UNITED STATES,"Williamsburg, Virginia, United States",nan value,nan value,nan value,cw
+13,b5610b89-dded-41b1-bb85-bac0ccf63015,Matt,Crafton,Matt Crafton,1976-06-11,2000.0,M,UNITED STATES,"Tulare, California, United States",Matt_Crafton,71.0,160.0,cw
+14,3ebef96f-43b4-422a-9d0c-db0127b25384,Alex,Bowman,Alex Bowman,1993-04-25,2013.0,M,UNITED STATES,"Tucson, Arizona, United States",AlexBRacing,nan value,nan value,cw
+15,c8fe8af7-8850-43e9-8544-8df52aa7d66b,Stewart,Friesen,Stewart Friesen,1983-07-25,2017.0,M,CANADA,"Niagara-on-the-Lake, Ontario, Canada",nan value,nan value,nan value,cw
+16,cb50ca4f-6226-453d-b380-aa365e2d19e7,Taylor,Gray,Taylor Gray,2005-03-25,2021.0,M,UNITED STATES,"Denver, North Carolina, United States",nan value,nan value,nan value,cw
+17,cb50ca4f-6226-453d-b380-aa365e2d19e7,Taylor,Gray,Taylor Gray,2005-03-25,2021.0,M,UNITED STATES,"Denver, North Carolina, United States",nan value,nan value,nan value,cw
+18,3ec1dd6a-c9b8-4d82-821f-23d0bdd4b310,Zane,Smith,Zane Smith,1999-06-09,2020.0,M,UNITED STATES,"Huntington Beach, California, United States",nan value,nan value,nan value,cw
+19,2ca8a9b9-aa65-4af9-b745-fda1ddbce9ac,Bret,Holmes,Bret Holmes,1997-05-05,2021.0,M,UNITED STATES,"Munford, Alabama, United States",nan value,nan value,nan value,cw
+20,c8f9328c-a3c3-4e76-baf5-83a557b63999,Thad,Moffitt,Thad Moffitt,2000-09-12,2022.0,M,UNITED STATES,"Trinity, North Carolina, United States",nan value,nan value,nan value,cw
+21,e989356d-2e28-4e5d-95a1-0b8a06d668dc,Chandler,Smith,Chandler Smith,2002-06-26,2021.0,M,UNITED STATES,"Talking Rock, Georgia, United States",nan value,nan value,nan value,cw
+22,fe744d70-4094-4c77-bb7d-6d6d08e94087,Jason M.,White,Jason M. White,1973-03-05,2018.0,M,CANADA,"Sun Peaks, , Canada",nan value,nan value,nan value,cw
+23,ef39b0f3-31eb-4829-bc53-b3a01ddf549e,Jessica,Friesen,Jessica Friesen,1986-05-05,2021.0,F,UNITED STATES,"Sprakers, New York, United States",nan value,nan value,nan value,cw
+24,fbc6a827-91db-4a6f-84a1-e3c928478c90,Clay,Greenfield,Clay Greenfield,1984-06-03,2010.0,M,UNITED STATES,"Clarksville, Tennessee, United States",claygreenfield,nan value,nan value,cw
+25,177e15c0-12fe-4121-8f0b-1c2599593f9d,Kaden,Honeycutt,Kaden Honeycutt,2003-06-23,2022.0,M,UNITED STATES,"Willow Park, Texas, United States",nan value,nan value,nan value,cw
+26,65633f63-647c-47d1-94c6-cdef425cda1e,Corey,Heim,Corey Heim,2002-07-05,2022.0,M,UNITED STATES,"Marietta, Georgia, United States",nan value,nan value,nan value,cw
+27,65633f63-647c-47d1-94c6-cdef425cda1e,Corey,Heim,Corey Heim,2002-07-05,2022.0,M,UNITED STATES,"Marietta, Georgia, United States",nan value,nan value,nan value,cw
+28,2987a290-93b9-4f4e-9b12-c68b4ed126a4,Riley,Herbst,Riley Herbst,1999-02-24,2020.0,M,UNITED STATES,"Las Vegas, Nevada, United States",nan value,nan value,nan value,cw
+29,cc332998-5d7e-413f-8a9b-28a46373958b,Christian,Eckes,Christian Eckes,2000-11-10,2020.0,M,UNITED STATES,"Greenville, New York, United States",nan value,nan value,nan value,cw
+30,fb6c45e9-990e-46e3-88df-174449c13334,Ross,Chastain,Ross Chastain,1992-12-04,2012.0,M,UNITED STATES,"Alva, Florida, United States",RossChastain,nan value,nan value,cw
+31,27d6e4ac-466b-448e-aab4-0bc2dd62db7c,Colby,Howard,Colby Howard,2001-10-28,2019.0,M,UNITED STATES,"Simpsonville, South Carolina, United States",nan value,nan value,nan value,cw
+32,6c1bc2c2-9ae3-4f1f-b3be-96b86962161f,Jason,Kitzmiller,Jason Kitzmiller,1973-07-25,2022.0,M,UNITED STATES,"Petersburg, West Virginia, United States",nan value,nan value,nan value,cw
+33,dd981e3e-1cfd-43ed-9969-f69cde1961b4,Blake,Lothian,Blake Lothian,2002-07-26,2022.0,M,UNITED STATES,"Fayetteville, North Carolina, United States",nan value,nan value,nan value,cw
+34,10558306-a1c2-4eb9-9b23-69551309aee2,Tanner,Gray,Tanner Gray,1999-04-15,2020.0,M,UNITED STATES,"Mooresville, North Carolina, United States",nan value,nan value,nan value,cw
+35,10558306-a1c2-4eb9-9b23-69551309aee2,Tanner,Gray,Tanner Gray,1999-04-15,2020.0,M,UNITED STATES,"Mooresville, North Carolina, United States",nan value,nan value,nan value,cw
+36,97a4a46c-baa3-4bff-8068-2fc347e37d9a,Brennan,Poole,Brennan Poole,1991-04-11,2016.0,M,UNITED STATES,"The Woodlands, Texas, United States",brennanpoole,nan value,nan value,cw
+37,e71b88ec-f12c-4acd-bbc7-726833477f1f,Ty,Majeski,Ty Majeski,1994-08-18,2019.0,M,UNITED STATES,"Seymour, Wisconsin, United States",nan value,nan value,nan value,cw
+38,d5435cba-2102-49e4-a1d8-389b11530304,Jennifer Jo,Cobb,Jennifer Jo Cobb,1973-06-12,2010.0,F,UNITED STATES,"Kansas City, Kansas, United States",JenJoCobb,nan value,nan value,cw
+39,c9bf58a8-66b6-4d75-a441-c13130ded990,William,Byron,William Byron,1997-11-29,2016.0,M,UNITED STATES,"Charlotte, North Carolina, United States",WilliamByron,nan value,nan value,cw
+40,4d5ede64-88da-4381-a164-13880230f74a,Johnny,Sauter,Johnny Sauter,1978-05-01,2009.0,M,UNITED STATES,"Necedah, Wisconsin, United States",JohnnySauter,71.0,nan value,cw
+41,c1eed2a8-0542-46cc-b75a-d33265d96b77,Austin Wayne,Self,Austin Wayne Self,1996-03-05,2016.0,M,UNITED STATES,"Austin, Texas, United States",AustinWSelf,nan value,nan value,cw
+42,5fd3e3fb-322f-4157-ae41-9317fba1997d,Chase,Elliott,Chase Elliott,1995-11-28,2014.0,M,UNITED STATES,"Dawsonville, Georgia, United States",chaseelliott,nan value,nan value,cw
+43,894b273e-ce7d-446c-9ab0-d9a474ce9d7f,Joey,Logano,Joey Logano,1990-05-24,2009.0,M,UNITED STATES,"Middletown, Connecticut, United States",joeylogano,72.0,140.0,cw
+44,391aecc5-94ea-4707-a1bf-e51fddd158e7,Derek,Kraus,Derek Kraus,2001-09-01,2020.0,M,UNITED STATES,"Stratford, Wisconsin, United States",nan value,nan value,nan value,cw
+45,a9988edd-7707-4a75-9ee5-d3a8cae0c8aa,Timmy,Hill,Timmy Hill,1993-02-25,2011.0,M,UNITED STATES,"Port Tobacco, Maryland, United States",TimmyHillRacer,nan value,nan value,cw
+46,8dd98524-b888-4f59-a32c-f6b66b3730b6,Sheldon,Creed,Sheldon Creed,1997-09-30,2019.0,M,UNITED STATES,"Alpine, California, United States",nan value,nan value,nan value,cw
+47,18de8d55-bf38-4988-919f-eed5d6092f23,Blaine,Perkins,Blaine Perkins,2000-02-28,2022.0,M,UNITED STATES,"Bakersfield, California, United States",nan value,nan value,nan value,cw
+48,8853e676-384e-4d08-8808-970fd111f36a,Austin,Dillon,Austin Dillon,1990-04-27,2010.0,M,UNITED STATES,"Welcome, North Carolina, United States",austindillon3,nan value,nan value,cw
+49,c591a18b-9776-4932-843e-dc7013f8335c,Todd,Bodine,Todd Bodine,1964-02-27,1992.0,M,UNITED STATES,"Chemung, New York, United States",Team_Onion,67.0,nan value,cw
+50,198c8de5-9175-4c42-acad-a1d8de6df398,Harrison,Burton,Harrison Burton,2000-10-09,2019.0,M,UNITED STATES,"Huntersville, North Carolina, United States",nan value,nan value,nan value,cw
+51,a602316b-3712-4de2-9098-7fcd887e7bd2,Parker,Kligerman,Parker Kligerman,1990-08-08,2011.0,M,UNITED STATES,"Westport, Connecticut, United States",pkligerman,nan value,nan value,cw
+52,e4522ae3-a66d-42e6-992d-f4ea7dd3284c,Carson,Hocevar,Carson Hocevar,2003-01-28,2021.0,M,UNITED STATES,"Portage, Michigan, United States",nan value,nan value,nan value,cw
+53,b5e010a8-30ee-408e-9868-e710e16b3b62,Chase,Janes,Chase Janes,2001-03-02,2022.0,M,UNITED STATES,"Fort Wayne, Indiana, United States",nan value,nan value,nan value,cw
+54,51b06822-f389-4256-bff2-ae5f5d8f7525,Kaz,Grala,Kaz Grala,1998-12-29,2017.0,M,UNITED STATES,"Westborough, Massachusetts, United States",nan value,nan value,nan value,cw
+55,e9aeae63-d769-4371-8ded-39c1e0f1657e,Lawless,Alan,Lawless Alan,2000-02-02,2022.0,M,UNITED STATES,"Van Nuys, California, United States",nan value,nan value,nan value,cw
+56,85c06960-3610-4eff-9ef2-18641b84c952,Kyle,Busch,Kyle Busch,1985-05-02,2004.0,M,UNITED STATES,"Las Vegas, Nevada, United States",kylebusch,73.0,nan value,cw
+57,b980fd47-ca35-4679-b37e-72652a7c6222,Hailie,Deegan,Hailie Deegan,2001-07-18,2021.0,F,UNITED STATES,"Temecula, California, United States",nan value,nan value,nan value,cw
+58,5ccd9339-39a5-41c4-9362-8f53aa063e57,Samuel,Lecomte,Samuel Lecomte,1960-10-15,2021.0,M,UNITED STATES,"Flower Mound, Texas, United States",nan value,nan value,nan value,cw
+59,1a64406d-c51c-47ce-8fb9-a5bb62eb0d9f,Austin,Hill,Austin Hill,1994-04-21,2022.0,M,UNITED STATES,"Winston, Georgia, United States",_AustinHill,nan value,nan value,cw
+60,2ead30ae-bf65-4eea-9b16-d70de2eb5e18,Matt,Jaskol,Matt Jaskol,1984-10-15,2022.0,M,UNITED STATES,"Las Vegas, Nevada, United States",nan value,nan value,nan value,cw
+61,4652e2a5-bbce-470a-a154-a59700880306,Chris,Hacker,Chris Hacker,1999-11-15,2021.0,M,UNITED STATES,"Noblesville, Indiana, United States",nan value,nan value,nan value,cw
+62,623f4293-77e7-43b3-8d91-0a5ab9365c3d,Ben,Rhodes,Ben Rhodes,1997-02-21,2016.0,M,UNITED STATES,"Louisville, Kentucky, United States",BenRhodes,nan value,nan value,cw
+63,7ecee9a3-589f-4ddc-82ca-281def6b224e,Bryan,Dauzat,Bryan Dauzat,1959-11-30,2014.0,M,UNITED STATES,"Alexandria, Louisiana, United States",nan value,nan value,nan value,cw
+64,ce805205-7fa6-46b7-980a-d3017d870be7,Spencer,Boyd,Spencer Boyd,1995-06-26,2018.0,M,UNITED STATES,"St. Louis, Missouri, United States",nan value,nan value,nan value,cw
+65,df112a83-5e6a-4bf2-a515-f0872ed4b8c2,Jake,Garcia,Jake Garcia,2005-03-03,2022.0,M,UNITED STATES,"Monroe, Georgia, United States",nan value,nan value,nan value,cw
+66,094b41f2-f109-4355-95cb-14ac2165c38e,Mike,Marlar,Mike Marlar,1978-01-30,2019.0,M,UNITED STATES,"Winfield, Tennessee, United States",nan value,nan value,nan value,cw
+67,768faa24-3c7e-4509-b372-5e316494a063,John,Atwell,John Atwell,1973-05-07,2021.0,M,UNITED STATES,"Azle, Texas, United States",nan value,nan value,nan value,cw
+68,ddf5bad4-6560-47eb-b1c0-573e94067c01,Danny,Bohn,Danny Bohn,1988-06-29,2019.0,M,UNITED STATES,"Freehold, New Jersey, United States",nan value,nan value,nan value,cw
+69,ddf5bad4-6560-47eb-b1c0-573e94067c01,Danny,Bohn,Danny Bohn,1988-06-29,2019.0,M,UNITED STATES,"Freehold, New Jersey, United States",nan value,nan value,nan value,cw
+70,e28a64ca-c622-4b28-b0d9-28bc9390f9e4,Ryan,Preece,Ryan Preece,1990-10-25,2016.0,M,UNITED STATES,"Berlin, Connecticut, United States",RyanPreece_,nan value,nan value,cw
+71,ae8a7d4a-f25d-41da-b080-160917018bf5,Tyler,Ankrum,Tyler Ankrum,2001-03-06,2019.0,M,UNITED STATES,"San Bernardino, California, United States",nan value,nan value,nan value,cw
+72,9e4dd7ad-6b5c-4476-8340-c0c48a93d4de,Tate,Fogleman,Tate Fogleman,2000-03-08,2020.0,M,UNITED STATES,"Durham, North Carolina, United States",nan value,nan value,nan value,cw
+73,ec790e58-81d2-4c82-be55-704d9635489d,Jack,Wood,Jack Wood,2000-08-07,2022.0,M,UNITED STATES,"Loomis, California, United States",nan value,nan value,nan value,cw
+74,81a36328-a89a-4ca7-ad80-7c7aca48b697,Chase,Purdy,Chase Purdy,1999-11-11,2021.0,M,UNITED STATES,"Meridian, Mississippi, United States",nan value,nan value,nan value,cw
+75,96d34584-89d6-4f49-aee5-5bc0dcabb266,Will,Rodgers,Will Rodgers,1994-10-08,2021.0,M,UNITED STATES,"Maui, Hawaii, United States",nan value,nan value,nan value,cw
+76,091884c2-b738-4632-8c2f-4a98533795c6,Buddy,Kofoid,Buddy Kofoid,2001-12-02,2022.0,M,UNITED STATES,"Penngrove, California, United States",nan value,nan value,nan value,cw
+77,6334f9f0-8b97-4020-8204-2ba30e7dd4ba,John H.,Nemechek,John H. Nemechek,1997-06-11,2015.0,M,UNITED STATES,"Mooresville, North Carolina, United States",JHNemechek,nan value,nan value,cw
+78,3ec3a264-978e-4d79-9f2a-3e2c7d38b8a0,Jesse,Little,Jesse Little,1997-04-15,2020.0,M,UNITED STATES,"Sherrills Ford, North Carolina, United States",jesselittle97,nan value,nan value,cw
+79,b6bed73c-46a0-4672-a32c-87783f5de2e3,Logan,Bearden,Logan Bearden,1995-11-03,2021.0,M,UNITED STATES,"Leander, Texas, United States",nan value,nan value,nan value,cw
+80,04fd1868-6005-414e-b2a4-7f27f5a0ca3e,Loris,Hezemans,Loris Hezemans,1997-05-26,2022.0,M,NETHERLANDS,"Eindhoven, , Netherlands",nan value,nan value,nan value,cw
+81,939e647d-756f-41d7-ad65-609344f64bd5,Bubba,Wallace,Bubba Wallace,1993-10-08,2013.0,M,UNITED STATES,"Mobile, Alabama, United States",BubbaWallace,nan value,nan value,cw
+82,e382e02a-d226-46f3-8e58-23baf4df39eb,Josh,Reaume,Josh Reaume,1990-10-11,2015.0,M,UNITED STATES,"Redlands, California, United States",joshreaume,nan value,nan value,cw
+83,69d058ca-9fce-4c4f-81f4-34afdc22fd6d,Howie,Disavino,Howie Disavino III,2001-04-10,2022.0,M,UNITED STATES,"Chesterfield, Virginia, United States",nan value,nan value,nan value,cw
+84,434dbd07-826e-4618-a193-48960cecc6af,Brian,Brown,Brian Brown,1978-10-19,2021.0,M,UNITED STATES,"Grain Valley, Missouri, United States",nan value,nan value,nan value,cw
+85,8409a6e1-2ee0-429c-8204-48466f46bdc0,Bill,Lester,Bill Lester,1961-02-06,2006.0,M,UNITED STATES,"Oakland, California, United States",nan value,72.0,nan value,cw
+86,4a3b588a-1f9a-43d5-8931-7109eeb7a72f,Gus,Dean,Gus Dean,1994-08-18,2019.0,M,UNITED STATES,"Bluffton, South Carolina, United States",nan value,nan value,nan value,cw
+87,eada2f6f-b30d-453f-92c0-2e8b31ca8b5a,Drew,Dollar,Drew Dollar,2000-12-02,2021.0,M,UNITED STATES,"Atlanta, Georgia, United States",nan value,nan value,nan value,cw
+88,a8a8b1eb-cb38-4292-ab26-8e7febe6d831,Codie,Rohrbaugh,Codie Rohrbaugh,1993-11-12,2018.0,M,UNITED STATES,"Petersburg, West Virginia, United States",nan value,nan value,nan value,cw
+89,048726db-d4ca-49f7-8e28-e8993958236f,Josh,Berry,Josh Berry,1990-10-22,2021.0,M,UNITED STATES,"Hendersonville, Tennessee, United States",JoshBerry,nan value,nan value,cw
+90,710857f0-0055-4604-b098-cf74eee10a50,Donny,Schatz,Donny Schatz,1977-08-10,2021.0,M,UNITED STATES,"Minot, North Dakota, United States",nan value,nan value,nan value,cw
+91,4432ecf0-1514-4535-ae26-10787fedfb9c,Timothy,Peters,Timothy Peters,1980-08-29,2005.0,M,UNITED STATES,"Providence, North Carolina, United States",TimothyPeters17,nan value,nan value,cw
+92,ce4939fb-8d52-4feb-aab8-44ba5eccbca3,Armani,Williams,Armani Williams,2000-04-14,2018.0,M,UNITED STATES,"Detroit, Michigan, United States",nan value,nan value,nan value,cw
+93,35580c10-7c00-40b4-adbb-235364ee9c3b,Parker,Price-Miller,Parker Price-Miller,1998-05-22,2021.0,M,UNITED STATES,"Kokomo, Indiana, United States",nan value,nan value,nan value,cw
+94,7ec39c5e-a620-401f-82f7-50713b7c4b30,Myatt,Snider,Myatt Snider,1994-12-30,2018.0,M,UNITED STATES,"Charlotte, North Carolina, United States",nan value,nan value,nan value,cw
+95,5ae1a122-28a3-461b-82e0-955c0d1132fa,BJ,McLeod,BJ McLeod,1983-11-17,2016.0,M,UNITED STATES,"Wauchula, Florida, United States",bjmcleod78,nan value,nan value,cw
+96,29f0f9db-1085-4122-ae5a-28bc8d5a64b1,James,Buescher,James Buescher,1990-03-26,2009.0,M,UNITED STATES,"Plano, Texas, United States",JamesBuescher,nan value,nan value,cw
+97,8b43d764-6f8a-47e7-b19c-4d83709dd2a2,Kyle,Strickler,Kyle Strickler,1983-08-03,2018.0,M,UNITED STATES,"Mooresville, North Carolina, United States",nan value,nan value,nan value,cw
+98,4981bba7-2971-4c78-8fbd-feccf1afdb97,Todd,Peck,Todd Peck,1986-01-29,2011.0,M,UNITED STATES,"Glenville, Pennsylvania, United States",ToddPeck40,nan value,nan value,cw
+99,4d95ef3a-46cc-43c2-b340-c92cea2ed7f8,Martin,Truex,Martin Truex Jr,1980-06-29,2004.0,M,UNITED STATES,"Mayetta, New Jersey, United States",MartinTruex_Jr,71.0,180.0,cw
+100,e9d5fede-f16b-4f3a-ba79-06caf772c287,Derek,Griffith,Derek Griffith,1997-02-09,2020.0,M,UNITED STATES,"Hudson, New Hampshire, United States",nan value,nan value,nan value,cw
+101,d18adf1a-679d-4ea5-a251-253ac7d03b75,Ryan,Ellis,Ryan Ellis,1989-11-29,2014.0,M,UNITED STATES,"Ashburn, Virginia, United States",ryanellisracing,nan value,nan value,cw
+102,86a90dad-7452-4b74-b582-b8d0190eb13b,Trey,Hutchens,Trey Hutchens III,1998-05-20,2019.0,M,UNITED STATES,"Lexington, North Carolina, United States",nan value,nan value,nan value,cw
+103,8f2e676b-c2ce-4bbb-8ca8-0701e44b25de,Cody,Erickson,Cody Erickson,1988-09-22,2014.0,M,UNITED STATES,"Ulen, Minnesota, United States",nan value,nan value,nan value,cw
+104,bfcb8d32-fab0-4bfa-be14-cf9466e1d886,Ty,Dillon,Ty Dillon,1992-02-27,2012.0,M,UNITED STATES,"Welcome, North Carolina, United States",TyDillon,nan value,nan value,cw
+105,1fb0e2af-80f6-4c6b-bf02-c2c96a53c1ff,Joe,Nemechek,Joe Nemechek,1963-09-26,1994.0,M,UNITED STATES,"Lakeland, Florida, United States",FrontRowJoe87,69.0,nan value,cw
+106,8419fa2b-d2ce-43df-95c5-55961c475c7b,Cameron,Lawrence,Cameron Lawrence,1992-08-07,2021.0,M,UNITED STATES,"Windmere, Florida, United States",nan value,nan value,nan value,cw
+107,aaf8b44f-d95a-4bc1-ac93-759a1d88c825,Norm,Benning,Norm Benning,1952-01-16,1989.0,M,UNITED STATES,"Level Green, Pennsylvania, United States",RacingNorm,70.0,nan value,cw
+108,a27abfd8-d687-4d6c-832d-10fae051ccb5,Todd,Gilliland,Todd Gilliland,2000-05-15,2018.0,M,UNITED STATES,"Sherrills Ford, North Carolina, United States",nan value,nan value,nan value,cw
+109,3354a6c0-eac9-432e-80e1-38043ee4a26b,Akinori,Ogata,Akinori Ogata,1973-08-14,2014.0,M,JAPAN,"Kanagawa, , Japan",AkinoriOgata,nan value,nan value,cw
+110,895900df-e016-4c29-8af1-5950fbb11517,Doug,Coby,Doug Coby III,1979-08-18,2021.0,M,UNITED STATES,"Milford, Connecticut, United States",nan value,nan value,nan value,cw
+111,9d18716c-fd73-48d4-b3da-44228c767b84,Kevin,Harvick,Kevin Harvick,1975-12-08,2001.0,M,UNITED STATES,"Bakersfield, California, United States",KevinHarvick,70.0,175.0,cw
+112,e79fc6cc-0ea7-4bb2-be7d-09ae4a36496f,Morgan,Alexander,Morgan Alexander,1997-04-10,2021.0,M,UNITED STATES,"Griffen, Georgia, United States",nan value,nan value,nan value,cw
+113,8d425276-debf-4b42-bc88-805ebf9969e9,Cory,Roper,Cory Roper,1977-07-31,2018.0,M,UNITED STATES,"Baytown, Texas, United States",nan value,nan value,nan value,cw
+114,ebd0a08d-5308-442e-a2ae-2e40aafb3100,Daniel,Suarez,Daniel Suarez,1992-01-07,2015.0,M,MEXICO,"Monterrey, , Mexico",Daniel_SuarezG,nan value,nan value,cw
+115,62369fd2-886e-41b1-bd56-8452b55216f1,Dylan,Lupton,Dylan Lupton,1993-12-07,2016.0,M,UNITED STATES,"Wilton, California, United States",LuptonDylan,nan value,nan value,cw
+116,2e6f5ea3-ea6e-48d2-85ec-2e89c2fa02b4,Ryan,Newman,Ryan Newman,1977-12-08,2002.0,M,UNITED STATES,"South Bend, Indiana, United States",RyanJNewman,71.0,nan value,cw
+117,b8d50c9c-f77d-4730-8151-b16723da5f28,Erik,Darnell,Erik Darnell,1982-12-02,2009.0,M,UNITED STATES,"Beach Park, Illinois, United States",ErikDarnell_7,nan value,nan value,cw
+118,81494312-bd6e-40db-a1ad-ae0eda566067,David,Gilliland,David Gilliland,1976-04-01,2006.0,M,UNITED STATES,"Riverside, California, United States",DavidGilliland,69.0,nan value,cw
+119,f9a7c4e2-3b85-4421-a54b-5f2f99770b84,Michele,Abbate,Michele Abbate,1988-03-09,2021.0,F,UNITED STATES,"Las Vegas, Nevada, United States",nan value,nan value,nan value,cw
+120,5f8f4143-1c8d-4152-9e82-12b958a2aa06,Chris,Windom,Chris Windom,1990-12-24,2017.0,M,UNITED STATES,"Canton, Illinois, United States",nan value,nan value,nan value,cw
+121,fca22d58-dc2c-4549-91be-8dd4dae9f3b3,Jr,Heffner,Jr Heffner,1972-03-31,2014.0,M,UNITED STATES,"Stephentown, New York, United States",nan value,nan value,nan value,cw
+122,a68c379b-6244-4bdd-8e07-6c0ebcee9d66,Raphael,Lessard,Raphael Lessard,2001-07-05,2020.0,M,CANADA,"St.-Joseph de Beauce, , Canada",nan value,nan value,nan value,cw
+123,db560f1a-2ea3-4e9d-b63b-b26e75e90605,Parker,Chase,Parker Chase,2001-02-23,2020.0,M,UNITED STATES,"New Braunfels, Texas, United States",nan value,nan value,nan value,cw
+124,812b9570-729a-4ef2-8ccb-6803aa7293b4,Spencer,Davis,Spencer Davis,1998-11-29,2020.0,M,UNITED STATES,"Dawsonville, Georgia, United States",nan value,nan value,nan value,cw
+125,25ca1ab3-b013-48cb-b4a4-c10fb45ba397,Chase,Briscoe,Chase Briscoe,1994-12-15,2017.0,M,UNITED STATES,"Mitchell, Indiana, United States",nan value,nan value,nan value,cw
+126,3e573563-f7f6-4315-a51a-f6f2fb05b94d,Chad,Chastain,Chad Chastain,1998-10-31,2021.0,M,UNITED STATES,"Fort Myers, Florida, United States",nan value,nan value,nan value,cw
+127,31a47f36-9c0f-4a5c-b7db-da1cd04da2af,Jett,Noland,Jett Noland,2003-12-11,2021.0,M,UNITED STATES,"Orlando, Florida, United States",nan value,nan value,nan value,cw
+128,cb54b9b5-bb7b-400d-9838-ef85747bb2d1,Ryan,Truex,Ryan Truex,1992-03-18,2011.0,M,UNITED STATES,"Mayetta, New Jersey, United States",ryan_truex,nan value,nan value,cw
+129,2e48f128-f5ac-4463-a84c-886e828c22b0,Devon,Rouse,Devon Rouse,1998-07-18,2021.0,M,UNITED STATES,"Burlington, Iowa, United States",nan value,nan value,nan value,cw
+130,2c1c1628-d612-45cf-951c-7626373d1c79,Sam,Mayer,Sam Mayer,2003-06-26,2021.0,M,UNITED STATES,"Franklin, Wisconsin, United States",nan value,nan value,nan value,cw
+131,f94ab49b-770a-4863-83ef-036994463349,Bobby,Reuse,Bobby Reuse,1970-05-18,2017.0,M,UNITED STATES,"Birmingham, Alabama, United States",bobaru,nan value,nan value,cw
+132,e4b9e60e-d4c2-4b42-93c3-0fa1f2695160,Bayley,Currey,Bayley Currey,1996-10-29,2017.0,M,UNITED STATES,"Driftwood, Texas, United States",nan value,nan value,nan value,cw
+133,069ba6f3-97c0-4172-826a-36c605918e99,Dawson,Cram,Dawson Cram,2001-09-12,2018.0,M,UNITED STATES,"Mooresville, North Carolina, United States",nan value,nan value,nan value,cw
+134,e615b810-e822-43ab-921a-9f60392ff2e2,Timothy,Viens,Timothy Viens,1976-10-10,2021.0,M,UNITED STATES,"Daytona Beach, Florida, United States",TViens,nan value,nan value,cw
+135,a374590a-c82e-4ee4-9623-ba7d3ee82aad,Camden,Murphy,Camden Murphy,1996-07-23,2014.0,M,UNITED STATES,"Itasca, Illinois, United States",CamdenMurphy,nan value,nan value,cw
+136,665b991b-16f4-4e13-ab70-d29224a0a949,Sage,Karam,Sage Karam,1995-03-05,2021.0,M,UNITED STATES,"Nazareth, Pennsylvania, United States",nan value,nan value,nan value,cw
+137,141401ee-e280-4fc5-9001-a08b5cda3eff,Roger,Reuse,Roger Reuse,1966-08-09,2018.0,M,UNITED STATES,"Birmingham, Alabama, United States",nan value,nan value,nan value,cw
+138,141401ee-e280-4fc5-9001-a08b5cda3eff,Roger,Reuse,Roger Reuse,1966-08-09,2018.0,M,UNITED STATES,"Birmingham, Alabama, United States",nan value,nan value,nan value,cw
+139,fc04af5e-bd27-4e87-850c-a72e22dcb4a6,AJ,Allmendinger,AJ Allmendinger,1981-12-16,2007.0,M,UNITED STATES,"Los Gatos, California, United States",AJDinger,66.0,nan value,cw
+140,6510f39b-45c4-4568-af36-95e34ea0aeec,Conor,Daly,Conor Daly,1991-12-15,2020.0,M,UNITED STATES,"Noblesville, Indiana, United States",nan value,nan value,nan value,cw
+141,a756eefd-801d-4214-ab1b-0b595c21c37d,Kyle,Larson,Kyle Larson,1992-07-31,2013.0,M,UNITED STATES,"Elk Grove, California, United States",KyleLarsonRacin,nan value,nan value,cw
+142,76c57d8f-a993-4c57-891d-9c456d0e0bdf,Ray,Ciccarelli,Ray Ciccarelli,1970-01-20,2017.0,M,UNITED STATES,"Ellicott City, Maryland, United States",nan value,nan value,nan value,cw
+143,c11cad13-bcf3-47ea-bb7f-be2b4d8d8e18,Brett,Moffitt,Brett Moffitt,1992-08-07,2015.0,M,UNITED STATES,"Grimes, Iowa, United States",Brett_Moffitt,nan value,nan value,cw
+144,32251b56-7387-4ade-8482-0917553218f4,JJ,Yeley,JJ Yeley,1976-10-05,2006.0,M,UNITED STATES,"Phoenix, Arizona, United States",jjyeley1,68.0,nan value,cw
+145,6d19d15f-7149-4d34-81e3-76a3e218432a,Trevor,Collins,Trevor Collins,1998-07-15,2018.0,M,UNITED STATES,"Seaford, Delaware, United States",nan value,nan value,nan value,cw
+146,90ed8ea9-e8bc-4471-9bec-07bb302ffcad,Jake,Griffin,Jake Griffin,1998-11-16,2015.0,M,UNITED STATES,"Quincy, Illinois, United States",JakeGriffin08,nan value,nan value,cw
+147,cb239c48-8ccb-4043-a221-531b0da78765,Paul,Menard,Paul Menard,1980-08-21,2007.0,M,UNITED STATES,"Eau Claire, Wisconsin, United States",nan value,70.0,nan value,cw
+148,02416e2b-c21a-4be8-abb9-3a51a6907c8a,Brad,Gross,Brad Gross,1971-03-22,2021.0,M,UNITED STATES,"Grapevine, Texas, United States",nan value,nan value,nan value,cw
+149,d259900a-e2e7-4612-b201-178bb80a862c,Josh,Bilicki,Josh Bilicki,1995-06-03,2018.0,M,UNITED STATES,"Menomonee Falls, Wisconsin, United States",nan value,nan value,nan value,cw
+150,a35fd670-da61-4091-9673-60d6dc62752f,Jesse,Iwuji,Jesse Iwuji,1987-08-12,2018.0,M,UNITED STATES,"Carrollton, Texas, United States",nan value,nan value,nan value,cw
+151,b727979c-034a-41ca-9136-921914c1896f,Michael,Annett,Michael Annett,1986-06-23,2009.0,M,UNITED STATES,"Des Moines, Iowa, United States",MichaelAnnett,nan value,nan value,cw
+152,e974a0b5-e26d-4c78-98ff-71048204b5a5,Willie,Allen,Willie Allen,1980-06-15,2007.0,M,UNITED STATES,"Nashville, Tennessee, United States",nan value,nan value,nan value,cw
+153,a02a44f5-eb45-4dcc-8c71-4a35bfaf31bf,Ryan,Reed,Ryan Reed,1993-08-12,2014.0,M,UNITED STATES,"Bakersfield, California, United States",driverRyanReed,nan value,nan value,cw
+154,4cccb84a-4841-45e1-9ccf-e1aff0222ab4,Cj,McLaughlin,Cj McLaughlin,1979-01-01,2019.0,M,UNITED STATES,"Framingham, Massachusetts, United States",nan value,nan value,nan value,cw
+155,c7beb5c5-3d88-4dec-881f-793e68ee2d19,Jeb,Burton,Jeb Burton,1992-08-06,2013.0,M,UNITED STATES,"Halifax, Virginia, United States",JebBurtonRacing,nan value,nan value,cw
+156,35a6fe75-7b32-4b7b-af0c-e68cb0891f7a,Garrett,Smithley,Garrett Smithley,1992-04-27,2016.0,M,UNITED STATES,"Ligonier, Pennsylvania, United States",GarrettSmithley,nan value,nan value,cw
+157,e1d94497-485d-4587-9f74-c2653b407ab2,Kyle,Donahue,Kyle Donahue,2000-04-25,2016.0,M,UNITED STATES,"Chesterfield, Missouri, United States",nan value,nan value,nan value,cw
+158,c287cefa-d594-4d28-85b0-c8fe2458caba,Travis,Pastrana,Travis Pastrana,1983-10-08,2012.0,M,UNITED STATES,"Annapolis, Maryland, United States",TravisPastrana,nan value,nan value,cw
+159,6db2400f-0fd5-49af-ae80-64f26385b9f2,Greg,Biffle,Greg Biffle,1969-12-23,2003.0,M,UNITED STATES,"Vancouver, Washington, United States",gbiffle,69.0,nan value,cw
+160,5b0db961-412b-40a8-84d0-c0a090f4b983,Angela,Ruch,Angela Ruch,1983-08-18,2010.0,F,UNITED STATES,"Puyallup, Washington, United States",AmberAngelaCope,nan value,nan value,cw
+161,1b8f4d7f-41e6-4ade-8669-a70cb7d00df9,Bryant,Barnhill,Bryant Barnhill,1998-08-11,2018.0,M,UNITED STATES,"Conway, South Carolina, United States",nan value,nan value,nan value,cw
+162,968cbde9-2824-41a7-9d94-5f2765c4b829,Scott,Lagasse,Scott Lagasse Jr,1981-01-31,2009.0,M,UNITED STATES,"St. Augustine, Florida, United States",scottlagasse,nan value,nan value,cw
+163,dde7052f-25f0-4e9e-9779-6bc2943bac99,Trevor,Bayne,Trevor Bayne,1991-02-19,2020.0,M,UNITED STATES,"Knoxville, Tennessee, United States",TBayne6,71.0,175.0,cw
+164,3c1c8459-ea46-4df5-b494-7b8072b70664,T.J.,Bell,T.J. Bell,1980-08-25,2003.0,M,UNITED STATES,"Reno, Nevada, United States",TJBell_racing,nan value,nan value,cw
+165,e595780e-baa7-4988-9a19-311fef7414d5,Erik,Jones,Erik Jones,1996-05-30,2015.0,M,UNITED STATES,"Byron, Michigan, United States",erik_jones,nan value,nan value,cw
+166,6e5a779b-11fa-46bf-bfc9-51efedfe66c4,Gray,Gaulding,Gray Gaulding,1998-02-10,2014.0,M,UNITED STATES,"Colonial Heights, Virginia, United States",graygaulding,nan value,nan value,cw
+167,329c2b87-4135-4bb3-982b-c9add9ebe6f6,Stefan,Parsons,Stefan Parsons,1998-06-15,2018.0,M,UNITED STATES,"Cornelius, North Carolina, United States",nan value,nan value,nan value,cw
+168,4817fcda-cb6f-4828-a158-c7d89f682e81,Mike,Skeen,Mike Skeen,1986-10-25,2013.0,M,UNITED STATES,"Portsmouth, Virginia, United States",nan value,75.0,180.0,cw
+169,64f0af49-cd09-41e2-8e09-e98a1fa3b0d9,David,Gravel,David Gravel,1992-06-23,2020.0,M,UNITED STATES,", , United States",nan value,nan value,nan value,cw
+170,df3c271a-b038-46c2-905e-6bad2684512e,Korbin,Forrister,Korbin Forrister,1992-11-16,2015.0,M,UNITED STATES,"Cedartown, Georgia, United States",korbinforrister,nan value,nan value,cw
+171,01399821-2c69-4580-94dd-d1c507194f45,Brandon,Jones,Brandon Jones,1997-02-18,2015.0,M,UNITED STATES,"Atlanta, Georgia, United States",brandonjonesrac,nan value,nan value,cw
+172,39a7c465-d85a-411b-a091-d2da3506dbb8,Alex,Tagliani,Alex Tagliani,1972-10-18,2014.0,M,CANADA,"Montreal, , Canada",tagliani,68.0,nan value,cw
+173,25884070-3ded-4fdc-9370-d09428ac95e4,David,Ragan,David Ragan,1985-12-24,2007.0,M,UNITED STATES,"Unadilla, Georgia, United States",DavidRagan,72.0,nan value,cw
+174,8910f02e-aa79-4b4c-af11-7cb5e0883870,Bobby,Kennedy,Bobby Kennedy,1993-12-26,2020.0,M,UNITED STATES,"Daytona Beach, Florida, United States",nan value,nan value,nan value,cw
+175,8855ea2b-bd5f-4e14-8532-fa35b13810e2,Kevin,Donahue,Kevin Donahue,1994-10-04,2016.0,M,UNITED STATES,"Chesterfield, Missouri, United States",nan value,nan value,nan value,cw
+176,4e2b46b2-c7ed-492c-8906-f78445d76d80,Robby,Lyons,Robby Lyons,1989-01-22,2017.0,M,UNITED STATES,"Seminole, Florida, United States",nan value,nan value,nan value,cw
+177,e6881e77-11a9-4282-bcdb-907dcfd42198,Bryan,Collyer,Bryan Collyer,1962-09-16,2020.0,M,UNITED STATES,"Ormond Beach, Florida, United States",nan value,nan value,nan value,cw
+178,6b94aa52-e320-4388-9039-48a2f6df2ce4,Natalie,Decker,Natalie Decker,1997-06-25,2019.0,F,UNITED STATES,"Eagle River, Wisconsin, United States",nan value,nan value,nan value,cw
+179,6e3ed92a-ee25-4dea-b116-d493ebccba07,Justin,Haley,Justin Haley,1999-04-28,2017.0,M,UNITED STATES,"Winamac, Indiana, United States",nan value,nan value,nan value,cw
+180,d06cb278-2b8c-42b4-96cb-a3abb8f81995,Mark,Smith,Mark Smith,1971-07-14,2019.0,M,UNITED STATES,"Sunbary, Pennsylvania, United States",nan value,nan value,nan value,cw
+181,c9ca324d-ccc2-4267-8a5b-1caaef01a071,Ryan,Huff,Ryan Huff,2001-04-13,2020.0,M,UNITED STATES,"Williamsburg, Virginia, United States",nan value,nan value,nan value,cw
+182,81656cc6-90cb-4880-9e31-fb5db1db84af,Colin,Garrett,Colin Garrett,2000-07-06,2019.0,M,UNITED STATES,"Elmo, Virginia, United States",nan value,nan value,nan value,cw
+183,1095af84-0305-45b3-8726-68b008767c1b,Dan,Corcoran,Dan Corcoran,1957-09-13,2019.0,M,CANADA,"Kingston, , Canada",nan value,nan value,nan value,cw
+184,cbe6de59-b78b-4c70-bb38-8c01cd67253a,Darwin,Peters,Darwin Peters Jr,1964-11-07,2019.0,M,UNITED STATES,"Olean, New York, United States",nan value,nan value,nan value,cw
+185,97526fee-9903-4b36-a556-14af234fe98f,Bobby,Gerhart,Bobby Gerhart,1958-07-21,1983.0,M,UNITED STATES,"Lebanon, Pennsylvania, United States",GerhartRacing_5,nan value,nan value,cw
+186,098c63ee-9f8a-4760-a9e2-d33ab036ca80,Justin,Johnson,Justin Johnson,1985-08-09,2011.0,M,UNITED STATES,"Las Vegas, Nevada, United States",nan value,nan value,nan value,cw
+187,788d2f69-6260-40c0-ad66-631a9cc0c24d,Joey,Gase,Joey Gase,1993-02-08,2012.0,M,UNITED STATES,"Cedar Rapids, Iowa, United States",JoeyGaseRacing,nan value,nan value,cw
+188,be1d865e-b048-4efc-a81d-b8acb199d15f,Gary,Klutt,Gary Klutt,1992-08-14,2016.0,M,CANADA,"Halton Hills, , Canada",nan value,nan value,nan value,cw
+189,81228be2-3223-4e34-80d3-e68f616e8fc6,Ryan,Sieg,Ryan Sieg,1987-06-20,2014.0,M,UNITED STATES,"Tucker, Georgia, United States",RyanSiegRacing,nan value,nan value,cw
+190,e228e4f4-deac-4eeb-acf6-cacdcb4bc81a,Kyle,Benjamin,Kyle Benjamin,1997-11-03,2018.0,M,UNITED STATES,"Easley, South Carolina, United States",kylebenjamin71,nan value,nan value,cw
+191,e325d299-6458-4db8-9a5c-c836b8e4d56f,Anthony,Mrakovich,Anthony Mrakovich,1999-01-05,2019.0,M,UNITED STATES,"Elizabethtown, Pennsylvania, United States",nan value,nan value,nan value,cw
+192,650d00cd-3279-49c1-970f-abbe1085930d,Devin,Dodson,Devin Dodson,1999-03-15,2019.0,M,UNITED STATES,"Bishopville, Maryland, United States",nan value,nan value,nan value,cw
+193,748bc44a-d8c9-4ea5-b23f-c628671be367,Juan Ma,Gonzalez,Juan Ma Gonzalez,1999-04-21,2019.0,M,MEXICO,"Mexico City, , Mexico",nan value,nan value,nan value,cw
+194,06ad66e1-76fa-488d-b25d-836bca3d0cee,Mason,Massey,Mason Massey,1997-01-24,2019.0,M,UNITED STATES,"Douglasville, Georgia, United States",nan value,nan value,nan value,cw
+195,f69245ee-72e4-4680-a4be-85e1c324ef43,Lou,Goss,Lou Goss,1987-05-22,2019.0,M,UNITED STATES,", , United States",nan value,nan value,nan value,cw
+196,f47f639d-d056-43a8-bde2-c9d1747a3799,Landon,Huffman,Landon Huffman,1996-01-30,2017.0,M,UNITED STATES,"Claremont, North Carolina, United States",nan value,nan value,nan value,cw
+197,43c2df55-bca2-4222-84a2-2ecca07a19ba,Kyle,Plott,Kyle Plott,1996-03-08,2019.0,M,UNITED STATES,"Marietta, Georgia, United States",nan value,nan value,nan value,cw
+198,5b580f91-0223-4c57-afb2-6df24d69d555,Chris,Fontaine,Chris Fontaine,1981-12-01,2005.0,M,nan value,"Lakeland, Florida, ",nan value,nan value,nan value,cw
+199,a5891e68-dca9-4ea7-9b28-57bd29d166b1,Greg,Rayl,Greg Rayl,1963-11-20,2019.0,M,UNITED STATES,"Salida, California, United States",nan value,nan value,nan value,cw
+200,434eb5c2-23e5-44c3-ac41-9695c900d748,Anthony,Alfredo,Anthony Alfredo,1999-03-31,2019.0,M,UNITED STATES,"Ridgefield, Connecticut, United States",nan value,nan value,nan value,cw
+201,18377019-dea1-4ba7-ba28-a9b0b9c78d7f,Tyler,Dippel,Tyler Dippel,2000-04-05,2019.0,M,UNITED STATES,"Wallkill, New York, United States",nan value,nan value,nan value,cw
+202,17af374d-dd4d-4d7d-a9fe-98580f65bb87,Cody,McMahan,Cody McMahan,1991-12-07,2019.0,M,UNITED STATES,"Chilhowie, Virginia, United States",nan value,nan value,nan value,cw
+203,e913a9e0-1ab4-494a-be63-7135d1f403c2,Chad,Finchum,Chad Finchum,1994-09-22,2018.0,M,UNITED STATES,"Knoxville, Tennessee, United States",nan value,nan value,nan value,cw
+204,57a7ee40-f7b9-4b01-853f-9e7eb7286b2e,Colt,Gilliam,Colt Gilliam,1989-12-27,2019.0,M,UNITED STATES,"Rock Hill, South Carolina, United States",nan value,nan value,nan value,cw
+205,08f1b0d9-02c3-487f-b966-120c29dcb23e,Tim,Ward,Tim Ward,1994-02-23,2019.0,M,UNITED STATES,"Harcourt, Iowa, United States",nan value,nan value,nan value,cw
+206,46f77b78-961b-48cc-8681-b971511d2d5e,D.J.,Kennington,D.J. Kennington,1977-07-15,2010.0,M,CANADA,"St. Thomas, , Canada",nan value,70.0,nan value,cw
+207,aa054192-c12f-44e5-bea0-d0272c603df0,Jeffrey,Abbey,Jeffrey Abbey,1998-09-01,2017.0,M,UNITED STATES,"Comanche, Texas, United States",nan value,nan value,nan value,cw
+208,3cd83b0d-be81-4884-80c7-00540e3489c9,Justin,Shipley,Justin Shipley,1980-06-05,2016.0,M,UNITED STATES,"Douglasville, Georgia, United States",nan value,nan value,nan value,cw
+209,67d8b82b-8797-47f2-b48e-965245bb6505,Scott,Stenzel,Scott Stenzel,1980-07-28,2012.0,M,UNITED STATES,"Alexandria, Minnesota, United States",nan value,nan value,nan value,cw
+210,693efc6f-4f6d-4371-a357-b0757e674bfb,Ted,Minor,Ted Minor,1974-02-01,2014.0,M,UNITED STATES,"Weatherford, Texas, United States",nan value,nan value,nan value,cw
+211,3c731d6e-9acb-4ae9-9333-df5c404eb099,Travis,Kvapil,Travis Kvapil,1976-03-01,2005.0,M,UNITED STATES,"Janesville, Wisconsin, United States",traviskvapil,72.0,nan value,cw
+212,e32ad7cf-adbb-4800-89d1-9edf5c18ce50,Carson,Ware,Carson Ware,2000-02-28,2019.0,M,UNITED STATES,"Jamestown, North Carolina, United States",nan value,nan value,nan value,cw
+213,248d899e-188a-480f-8187-843bd158a2e7,Chad,Finley,Chad Finley,1992-03-17,2015.0,M,UNITED STATES,"Dewitt, Michigan, United States",Chad_Finley,nan value,nan value,cw
+214,cf7c7f55-30cc-49e2-b379-8b61f9a470f1,Daniel,Sasnett,Daniel Sasnett,1978-03-20,2019.0,M,UNITED STATES,"Auburndale, Florida, United States",nan value,nan value,nan value,cw
+215,1f6b92dc-c5ab-43a5-ab1e-255283e8c24c,Reid,Wilson,Reid Wilson,1996-05-30,2018.0,M,UNITED STATES,"Charlotte, North Carolina, United States",nan value,nan value,nan value,cw
+216,4f63e2cc-e20e-43a4-ad00-1f54b6f7461d,Austin,Theriault,Austin Theriault,1994-01-23,2015.0,M,UNITED STATES,"Fort Kent, Maine, United States",AustinTheriault,nan value,nan value,cw
+217,fa1dba10-512b-4cfd-bcb7-c8e4963a209d,Cody,Ware,Cody Ware,1995-11-07,2015.0,M,UNITED STATES,"Greensboro, North Carolina, United States",CodyShaneWare,nan value,nan value,cw
+218,dd38e83c-4091-4ee9-a2ca-9d1c3ae58fc7,Justin,Fontaine,Justin Fontaine,1997-10-18,2018.0,M,UNITED STATES,"Fletcher, North Carolina, United States",nan value,nan value,nan value,cw
+219,460d88fe-cf23-495e-8f04-98729874023c,Daniel,Hemric,Daniel Hemric,1991-01-27,2015.0,M,UNITED STATES,"Kannapolis, North Carolina, United States",DanielHemric,nan value,nan value,cw
+220,860d0c45-9064-4929-a377-32f329a15b66,Tyler,Matthews,Tyler Matthews,1996-12-01,2018.0,M,UNITED STATES,"Richlands, North Carolina, United States",nan value,nan value,nan value,cw
+221,83f70bbc-ddfa-4fc8-aa50-c6632eab62ab,Nick,Hoffman,Nick Hoffman,1992-05-01,2010.0,M,UNITED STATES,"Mooresville, North Carolina, United States",nan value,nan value,nan value,cw
+222,4bb14231-16a9-4536-b8dd-45dd7a8b7975,Tyler,Young,Tyler Young,1990-07-15,2014.0,M,UNITED STATES,"Midland, Texas, United States",TylerYoung02,nan value,nan value,cw
+223,1a618e86-838d-4983-9b52-011a67cccf7a,Reed,Sorenson,Reed Sorenson,1986-02-05,2005.0,M,UNITED STATES,"Peachtree City, Georgia, United States",ReedSorenson36,70.0,nan value,cw
+224,18e125dd-ff0a-4fcb-9996-f4d6bfc89b8a,Bo,Le Mastus,Bo Le Mastus,1963-01-08,2018.0,M,UNITED STATES,"Louisville, Kentucky, United States",nan value,nan value,nan value,cw
+225,54301e13-0586-4926-9372-99665f861ef2,Tanner,Thorson,Tanner Thorson,1996-05-07,2018.0,M,UNITED STATES,"Minden, Nevada, United States",nan value,nan value,nan value,cw
+226,5d6958b2-1528-45d0-a3f2-5381c699edbd,Max,Tullman,Max Tullman,1997-08-22,2018.0,M,UNITED STATES,"Chester Springs, Pennsylvania, United States",nan value,nan value,nan value,cw
+227,3501c254-26a7-4ab8-830c-2b758ec51242,Tommy,Regan,Tommy Regan,1977-09-16,2014.0,M,UNITED STATES,"Tracy, California, United States",nan value,nan value,nan value,cw
+228,0fbb5c30-514e-4dc5-9e5d-1e37b9a2ca51,Max,McLaughlin,Max McLaughlin,2000-02-29,2019.0,M,UNITED STATES,"Mooresville, North Carolina, United States",nan value,nan value,nan value,cw
+229,971ba306-74df-48e9-a221-78bdd381c346,Mike,Harmon,Mike Harmon,1958-01-24,2001.0,M,UNITED STATES,"Birmingport, Alabama, United States",hrmn8ter,69.0,nan value,cw
+230,10ff47b5-c95c-4d6f-a303-577072ed712a,Jamie,Mosley,Jamie Mosley,1969-12-07,2009.0,M,UNITED STATES,"London, Kentucky, United States",nan value,nan value,nan value,cw
+231,859a537a-0c00-41ce-a7fd-2368e89676ce,Logan,Norman Seavey,Logan Norman Seavey,1997-06-09,2018.0,M,UNITED STATES,"Sutter, California, United States",nan value,nan value,nan value,cw
+232,dd6a38ce-120d-4d9b-89d3-6a157ae8f3cd,Rj,Otto,Rj Otto Jr,1992-06-25,2018.0,M,UNITED STATES,"Columbus, Ohio, United States",nan value,nan value,nan value,cw
+233,8d1f56fe-2dca-42e1-a9ea-e78399ee512e,Justin,Marks,Justin Marks,1981-03-25,2008.0,M,UNITED STATES,"Los Altos Hills, California, United States",JMarksDE,nan value,nan value,cw
+234,6a8d11a9-4344-4f85-b9ca-73b738d63260,Brian,Kaltreider,Brian Kaltreider,1974-03-22,2018.0,M,UNITED STATES,"Reading, Pennsylvania, United States",nan value,nan value,nan value,cw
+235,0f5aa1cd-97fb-406a-a97b-2ff4fa70f6ba,Braden,Mitchell,Braden Mitchell,1990-08-28,2018.0,M,UNITED STATES,"Russellville, Alabama, United States",nan value,nan value,nan value,cw
+236,b5685abb-f4f8-4fd0-a024-c496e36c9954,John,Provenzano,John Provenzano,1954-12-19,2018.0,M,UNITED STATES,"Hinckley, Illinois, United States",nan value,nan value,nan value,cw
+237,2d1e1b09-91eb-406a-acfc-59d1cdec326b,Mike,Senica,Mike Senica,1966-04-26,2017.0,M,UNITED STATES,"Doylestown, Pennsylvania, United States",nan value,nan value,nan value,cw
+238,16093182-4594-49a3-bef9-5f91f24a7abd,Jeff,Zillweger,Jeff Zillweger,1972-07-07,2018.0,M,UNITED STATES,"Alison Park, Pennsylvania, United States",nan value,nan value,nan value,cw
+239,7be12f80-44ca-415b-ab00-ec77ab12d03d,Chris,Eggleston,Chris Eggleston,1989-03-27,2010.0,M,UNITED STATES,"Erie, Colorado, United States",nan value,64.0,123.0,cw
+240,87d3c843-ed5e-4b97-9f2a-69e765c7bcc7,Brad,Foy,Brad Foy,1985-09-06,2018.0,M,UNITED STATES,"Moneta, Virginia, United States",BradFoy0,nan value,nan value,cw
+241,abab879c-93b3-4476-95a0-47f60df1a0e4,Noah,Gragson,Noah Gragson,1998-07-15,2017.0,M,UNITED STATES,"Las Vegas, Nevada, United States",nan value,nan value,nan value,cw
+242,9b72fb15-7192-4e19-910b-6022679ed2b1,Dalton,Sargeant,Dalton Sargeant,1998-03-25,2018.0,M,UNITED STATES,"Boca Raton, Florida, United States",DaltonSargeant,nan value,nan value,cw
+243,2801218d-d6f9-424f-963e-0629a696deea,Michael,Affarano,Michael Affarano,1962-06-09,2014.0,M,UNITED STATES,"Shorewood, Illinois, United States",MikeAffarano,nan value,nan value,cw
+244,16497cd0-5add-407a-b9a8-eec7d62e413b,Christopher,Bell,Christopher Bell,1994-12-16,2016.0,M,UNITED STATES,"Norman, Oklahoma, United States",CBellRacing,nan value,nan value,cw
+245,3927a089-e1ed-497e-8351-8559b7f8f008,Justin,Kunz,Justin Kunz,1997-07-11,2018.0,M,GERMANY,"Appenweier, , Germany",nan value,nan value,nan value,cw
+246,13fc68d6-4368-4be0-b798-f9d9cbce85ab,Cody,Coughlin,Cody Coughlin,1995-12-11,2017.0,M,UNITED STATES,"Delaware, Ohio, United States",cody_coughlin,nan value,nan value,cw
+247,c5d101d1-6e77-4e46-a02c-3cd307578f89,Spencer,Gallagher,Spencer Gallagher,1989-11-20,2015.0,M,UNITED STATES,"Las Vegas, Nevada, United States",23speedracer,nan value,nan value,cw
+248,964ec3c8-581c-4b73-b3c0-4d4e67c88b0d,Michel,Disdier,Michel Disdier,1974-02-10,2014.0,M,FRANCE,"Nice, , France",MichelDisdier,nan value,nan value,cw
+249,4d840d49-2108-4ab3-9c0d-fb228bc08f49,Wendell,Chavous,Wendell Chavous,1985-02-28,2017.0,M,UNITED STATES,"Hephzibah, Georgia, United States",nan value,nan value,nan value,cw
+250,ec55af48-cddf-4f2d-bf82-d2c7e3bf203d,Brandon,Hightower,Brandon Hightower,1998-03-17,2015.0,M,UNITED STATES,"Natchitoches, Louisiana, United States",BHightowerb52,nan value,nan value,cw
+251,c887f553-43a2-4f60-8bc1-2a57b1324301,Mason,Diaz,Mason Diaz,2000-05-16,2019.0,M,UNITED STATES,"Manassas, Virginia, United States",nan value,nan value,nan value,cw
+252,5bfde686-f1f1-46b5-b901-bab863f2617e,Donnie,Levister,Donnie Levister,1976-04-19,2017.0,M,UNITED STATES,"Winnsboro, South Carolina, United States",nan value,nan value,nan value,cw
+253,11ae1582-4211-4cf4-aade-db0f9bcca105,Tommy Joe,Martins,Tommy Joe Martins,1986-12-07,2014.0,M,UNITED STATES,"Como, Mississippi, United States",TommyJoeMartins,nan value,nan value,cw
+254,9e7c6f14-d70d-4fd2-9088-b17f863ee568,Brandon,Brown,Brandon Brown,1993-09-14,2014.0,M,UNITED STATES,"Woodbridge, Virginia, United States",86BrandonBrown,nan value,nan value,cw
+255,98aa3845-8cf2-4d02-9bce-6f8400ab8ef2,Charles,Buchanan,Charles Buchanan,1961-08-12,2014.0,M,nan value,"Hildebrand, North Carolina, ",nan value,nan value,nan value,cw
+256,ab428344-fb5d-494c-9452-32fafc9a7536,Victor,Gonzalez,Victor Gonzalez Jr,1975-07-18,2017.0,M,PUERTO RICO,"Trujillo Alto, , Puerto Rico",VictorGonz,nan value,nan value,cw
+257,600516a6-26cc-4f65-80a2-31c6a649090e,Cale,Gale,Cale Gale,1985-03-05,2008.0,M,UNITED STATES,"Mobile, Alabama, United States",CaleGale,nan value,nan value,cw
+258,2c386f69-2ba9-4c5b-946a-89673589d767,Joe,Hudson,Joe Hudson,1965-05-01,2017.0,M,UNITED STATES,"Alabaster, Alabama, United States",nan value,nan value,nan value,cw
+259,1e33358a-0557-41be-8283-9eec57911153,Max,Johnston,Max Johnston,1993-09-24,2017.0,M,AUSTRALIA,"Sydney, , Australia",nan value,nan value,nan value,cw
+260,26f629b5-8682-4db6-a91f-bf0f732f505a,Austin,Cindric,Austin Cindric,1998-09-02,2017.0,M,UNITED STATES,"Mooresville, North Carolina, United States",AustinCindric,nan value,nan value,cw
+261,78f86455-921f-4d3e-8911-1bfd73c94172,Ken,Schrader,Ken Schrader,1955-05-29,1984.0,M,UNITED STATES,"Fenton, Missouri, United States",KenSchrader,69.0,nan value,cw
+262,80ba3365-3f1b-458e-bbb9-872330c7463b,Rico,Abreu,Rico Abreu,1992-01-30,2016.0,M,UNITED STATES,"St. Helena, California, United States",Rico_Abreu,nan value,nan value,cw
+263,22732946-c7f9-45e8-82ed-fd54c8a92272,Patrick,Emerling,Patrick Emerling,1992-09-19,2011.0,M,UNITED STATES,"Orchard Park, New York, United States",nan value,nan value,nan value,cw
+264,8c470476-1e7d-4d6e-9e23-b3369732bcdc,Caleb,Holman,Caleb Holman,1984-01-07,2012.0,M,UNITED STATES,"Abingdon, Virginia, United States",nan value,nan value,nan value,cw
+265,d07af745-5646-49d0-a566-fdf18c0070e1,Bobby,Pierce,Bobby Pierce,1996-11-24,2015.0,M,UNITED STATES,"Oakwood, Illinois, United States",BobbyPierce32,nan value,nan value,cw
+266,ee8a61b3-c158-43d1-a106-26cc7ebfafd0,Brian,Wong,Brian Wong,1989-02-03,2015.0,M,UNITED STATES,"Newport Beach, California, United States",BrianWong,nan value,nan value,cw
+267,aa127143-b882-480e-bc2c-858787890ba6,Vinnie,Miller,Vinnie Miller,1997-08-16,2017.0,M,UNITED STATES,"Metamora, Michigan, United States",nan value,nan value,nan value,cw
+268,e2dc1ffe-5085-4890-a42f-127036f99c82,Jason,Hathaway,Jason Hathaway,1976-11-22,2007.0,M,CANADA,"Appin, , Canada",nan value,nan value,nan value,cw
+269,09b3878c-0a3c-4e5e-923e-4fdca40e911f,Terry,Jones,Terry Jones,1971-07-30,2010.0,M,CANADA,"Amherstburg, , Canada",nan value,nan value,nan value,cw
+270,cda330a4-9d7a-4aaa-a1ab-aabda4120850,Travis,Miller,Travis Miller,1988-04-13,2012.0,M,UNITED STATES,"Chesapeake, Virginia, United States",nan value,nan value,nan value,cw
+271,25c863f1-d98b-414e-857d-b0d3bc981f2a,Regan,Smith,Regan Smith,1983-09-23,2008.0,M,UNITED STATES,"Cato, New York, United States",ReganSmith,69.0,nan value,cw
+272,5953ad97-18c8-4e0f-b999-6ec9644c0a14,Bryce,Napier,Bryce Napier,1999-08-12,2016.0,M,UNITED STATES,"Scotts Valley, California, United States",nan value,nan value,nan value,cw
+273,3560705d-b150-4bd3-8275-6093f01524bc,Matt,Tifft,Matt Tifft,1996-06-26,2016.0,M,UNITED STATES,"Hinckley, Ohio, United States",matt_tifft,nan value,nan value,cw
+274,ae560bad-295c-4e5b-89f5-01bd940ab299,Enrique,Contreras,Enrique Contreras III,1993-05-29,2014.0,M,MEXICO,"Mexico City, , Mexico",ContrerasDriver,nan value,nan value,cw
+275,e59f054b-a9c1-4c1d-9db2-cb4f0db1dc93,Paige,Decker,Paige Decker,1993-03-20,2015.0,F,UNITED STATES,"Eagle River, Wisconsin, United States",Paige_Decker_03,nan value,nan value,cw
+276,f6be7551-6856-4bcf-ba3a-241d5a2016a6,Shane,Lee,Shane Lee,1993-07-04,2016.0,M,UNITED STATES,"Newton, North Carolina, United States",nan value,nan value,nan value,cw
+277,747de0f4-1dad-40f3-9a32-812c619d287b,Ray,Black,Ray Black Jr,1991-05-17,2015.0,M,UNITED STATES,"Palm Coast, Florida, United States",RayBlackJr,70.0,135.0,cw
+278,30180a89-d256-4ab3-aa14-cd5aaab61737,Cole,Whitt,Cole Whitt,1991-06-22,2011.0,M,UNITED STATES,"Alpine, California, United States",colewhitt,nan value,nan value,cw
+279,bd66e6a7-359d-4edb-906c-345b96257523,Joshua,Reeves,Joshua Reeves,1992-11-06,2016.0,M,UNITED STATES,"Bassett, Virginia, United States",nan value,nan value,nan value,cw
+280,b030a8df-e7de-44a4-9f59-34bb9fd227d0,Tyler,Reddick,Tyler Reddick,1996-01-11,2014.0,M,UNITED STATES,"Corning, California, United States",TylerReddick,nan value,nan value,cw
+281,8e9980c0-68c2-407a-ae7c-c49e02ff19db,Sean,Corr,Sean Corr,1984-02-21,2008.0,M,UNITED STATES,"Goshen, New York, United States",seancorr82_8_48,nan value,nan value,cw
+282,cb65cdd3-a520-45c4-b876-42205c21d0e1,Ryan,Lynch,Ryan Lynch,1986-07-31,2012.0,M,UNITED STATES,"New Boston, Texas, United States",nan value,nan value,nan value,cw
+283,3ee8cca6-048e-4e36-9216-ed27d294611b,Cole,Custer,Cole Custer,1998-01-23,2016.0,M,UNITED STATES,"Ladera Ranch, California, United States",colecuster00,nan value,nan value,cw
+284,36278ef1-e16a-4565-a135-9fded06adf74,Wayne,Edwards,Wayne Edwards,1967-06-23,2000.0,M,UNITED STATES,"Shepherdsville, Kentucky, United States",nan value,nan value,nan value,cw
+285,e822a413-9ff4-4315-8834-68e03cfa19cc,John Wes,Townley,John Wes Townley,1989-12-31,2009.0,M,UNITED STATES,"Watkinsville, Georgia, United States",JWTownley,nan value,nan value,cw
+286,1ceefe2d-eecd-466e-8589-43de79aec127,David,Levine,David Levine,1993-07-03,2015.0,M,UNITED STATES,"Highland Park, Illinois, United States",nan value,nan value,nan value,cw
+287,8a722d8c-d995-47c5-9144-32e374076789,Brady,Boswell,Brady Boswell,1997-04-18,2016.0,M,UNITED STATES,"Watkinsville, Georgia, United States",nan value,nan value,nan value,cw
+288,7feeee8c-a83f-43b8-8066-e2fa2a838faa,Alon,Day,Alon Day,1991-11-04,2015.0,M,ISRAEL,"Ashdod, , Israel",nan value,nan value,nan value,cw
+289,31c05f01-8b25-4c6a-9a76-75efe03abe13,Caleb,Roark,Caleb Roark,1993-01-13,2011.0,M,UNITED STATES,"Abingdon, Virginia, United States",CalebRoark,nan value,nan value,cw
+290,01bfd851-485c-4ae1-be40-0c4ba39abe09,Claire,Decker,Claire Decker,1995-02-22,2016.0,F,UNITED STATES,"Eagle River, Wisconsin, United States",nan value,nan value,nan value,cw
+291,2119b3ac-1e56-480b-b9d2-da11ea1b5a6c,Cameron,Hayley,Cameron Hayley,1996-07-21,2015.0,M,CANADA,"Calgary, Alberta, , Canada",CameronNHayley,nan value,nan value,cw
+292,1b6090ff-b0a8-400e-b2ae-c1eaf722f44d,Nick,Drake,Nick Drake,1995-12-22,2016.0,M,UNITED STATES,"Mooresville, North Carolina, United States",nan value,nan value,nan value,cw
+293,cd36b226-fd8a-4ecc-ab04-eb9453a66444,Carlos,Contreras,Carlos Contreras,1970-06-08,1999.0,M,MEXICO,"Mexico City, , Mexico",ccontreras1122,nan value,nan value,cw
+294,cab87b1c-384f-424f-86ad-d84e86c638ee,Kyle,Soper,Kyle Soper,1996-04-25,2016.0,M,UNITED STATES,"Manorville, New York, United States",nan value,nan value,nan value,cw
+295,66a8630f-d2a9-41b9-9891-8e7d0198fe9a,Dominique,Van Wieringen,Dominique Van Wieringen,1995-06-22,2016.0,F,CANADA,"Amherstburg, , Canada",nan value,nan value,nan value,cw
+296,38d7f5d1-6da3-4706-916d-a0784931c833,Patrick,Staropoli,Patrick Staropoli,1989-11-10,2016.0,M,UNITED STATES,"Plantation, Florida, United States",nan value,nan value,nan value,cw
+297,013b2c21-c68e-4f9d-880f-10c921d181e7,Josh,Wise,Josh Wise,1983-02-07,2012.0,M,UNITED STATES,"Riverside, California, United States",Josh_Wise,nan value,nan value,cw
+298,309f3d19-0217-40a7-9769-75f3750d6bec,Mike,Bliss,Mike Bliss,1965-04-05,1995.0,M,UNITED STATES,"Milwaukie, Oregon, United States",MikeBliss19,73.0,nan value,cw
+299,fdb39618-2e26-448a-afb8-30b2bb2ad4e4,Cj,Faison,Cj Faison,1993-08-31,2013.0,M,UNITED STATES,"Seaford, Delaware, United States",cjfaison,nan value,nan value,cw
+300,e6bc00de-f6f4-4076-889b-4de1b398e0ad,Ben,Kennedy,Ben Kennedy,1991-12-26,2014.0,M,UNITED STATES,"Daytona Beach, Florida, United States",BenKennedy11,nan value,nan value,cw
+301,450fc237-ddae-4c76-ba03-f173741b1ffe,Casey,Smith,Casey Smith,1985-04-20,2016.0,M,UNITED STATES,"Austin, Texas, United States",nan value,nan value,nan value,cw
+302,37dddcf8-63a3-47e7-9c61-b60afc902ef6,Josh,White,Josh White,1991-05-07,2016.0,M,UNITED STATES,"Charleston, West Virginia, United States",nan value,nan value,nan value,cw
+303,50d079fb-f661-40d4-812e-207beef1a7e3,Andy,Seuss,Andy Seuss,1987-03-15,2006.0,M,UNITED STATES,"Hempstead, New Hampshire, United States",AndySeuss,nan value,nan value,cw
+304,43972c1b-da8b-4d40-a211-894158bf6be6,Kyle,Martel,Kyle Martel,1987-07-02,2012.0,M,UNITED STATES,"Lebanon, Pennsylvania, United States",Kyle_Martel,nan value,nan value,cw
+305,9ee80c2a-522a-4f67-b50a-c7f903aa2835,German,Quiroga,German Quiroga Jr,1980-05-29,2013.0,M,MEXICO,"Mexico City, , Mexico",gerspeed1,nan value,nan value,cw
+306,b1308062-ff2f-4dc4-a402-58af1c2ebdab,Derek,Scott,Derek Scott Jr,1999-04-22,2016.0,M,UNITED STATES,"Franklin, Texas, United States",nan value,nan value,nan value,cw
+307,bcf5b54b-bbbe-4653-aade-a7364e946056,Clint,Bowyer,Clint Bowyer,1979-05-30,2005.0,M,UNITED STATES,"Emporia, Kansas, United States",clintbowyer,72.0,nan value,cw
+308,db988485-c318-4a47-9a5e-355b2b8f9aec,Justin,Jennings,Justin Jennings,1970-10-10,2012.0,M,UNITED STATES,"LaGrange, Missouri, United States",nan value,nan value,nan value,cw
+309,aa8cc97f-c6cc-4f1c-9163-4d0f47807e92,Dexter,Stacey,Dexter Stacey,1992-11-09,2013.0,M,CANADA,"Quebec, , Canada",nan value,nan value,nan value,cw
+310,71ae55ec-0e17-4558-b3b0-d3b8a74d5ac3,Joey,Gattina,Joey Gattina,1979-07-14,2015.0,M,UNITED STATES,"Alabaster, Alabama, United States",nan value,nan value,nan value,cw
+311,b63602dc-a12a-446b-a68e-733423d76c3d,Madeline,Crane,Madeline Crane,1997-10-30,2015.0,F,UNITED STATES,"Meansville, Georgia, United States",nan value,nan value,nan value,cw
+312,614d3671-2b12-42d6-915e-2521b859e370,Kyle,Weatherman,Kyle Weatherman,1997-08-28,2015.0,M,UNITED STATES,"Wentzville, Missouri, United States",nan value,nan value,nan value,cw
+313,3f469f80-5b9c-4468-a674-a1672c4cbaca,Justin,Boston,Justin Boston,1989-09-12,2015.0,M,UNITED STATES,"Baltimore, Maryland, United States",nan value,nan value,nan value,cw
+314,4c660324-5f0a-48b5-891e-1bc100933997,Cody,Lane,Cody Lane,1996-01-03,2015.0,M,UNITED STATES,"Port Richey, Florida, United States",nan value,nan value,nan value,cw
+315,65d1f369-365b-493d-9109-3af5ecb279b5,Brian,Keselowski,Brian Keselowski,1981-09-02,2008.0,M,UNITED STATES,"Rochester Hills, Michigan, United States",nan value,nan value,nan value,cw
+316,428f92fc-e3ed-4833-97a4-6c83af498144,Ruben,Pardo,Ruben Pardo,1979-06-18,2015.0,M,MEXICO,"Mexico City, , Mexico",nan value,nan value,nan value,cw
+317,203421e3-d8dd-4ebd-a19f-6481b0cc5bea,Donnie,Neuenberger,Donnie Neuenberger,1962-08-10,2000.0,M,UNITED STATES,"Brandywine, Maryland, United States",nan value,75.0,nan value,cw
+318,ed295a71-9e00-422c-92c5-0b236d22a72e,Adam,Edwards,Adam Edwards,1980-05-09,2012.0,M,UNITED STATES,"Falls Church, Virginia, United States",nan value,nan value,nan value,cw
+319,67948099-4196-4e1b-ae9e-b437aa99000a,Ryan,Blaney,Ryan Blaney,1993-12-31,2013.0,M,UNITED STATES,"High Point, North Carolina, United States",RyanBlaney22,nan value,nan value,cw
+320,9f699c99-4006-4a1e-a39a-8b9ba3436859,Ross,Kenseth,Ross Kenseth,1993-05-25,2015.0,M,UNITED STATES,"Appleton, Wisconsin, United States",nan value,nan value,nan value,cw
+321,7410f1bc-c8ef-4edc-a814-8f196aad21a3,Jim,Weiler,Jim Weiler,1972-07-23,2015.0,M,UNITED STATES,"Sonoma, California, United States",nan value,nan value,nan value,cw
+322,8fa32d3b-a5ba-4eea-a4eb-9063ed7e7114,Morgan,Shepherd,Morgan Shepherd,1941-10-12,1970.0,M,UNITED STATES,"Ferguson, North Carolina, United States",MShepherd89,69.0,nan value,cw
+323,255ce219-6382-4bac-9782-b144715a7736,Cassie,Gannis,Cassie Gannis,1991-04-07,2015.0,F,UNITED STATES,"Phoenix, Arizona, United States",nan value,nan value,nan value,cw
+324,f1e6ee12-0c1e-44e4-8efe-9843e844363d,Bryan,Silas,Bryan Silas,1987-06-13,2012.0,M,UNITED STATES,"Stuart, Florida, United States",nan value,nan value,nan value,cw
+325,688214a4-99fb-4e45-9a14-58cb0d6d4c2c,Mason,Mingus,Mason Mingus,1994-11-28,2014.0,M,UNITED STATES,"Brentwood, Tennessee, United States",nan value,nan value,nan value,cw
+326,955668bd-44c9-4acd-95e6-a3ede9c366ad,Stewart,Hayward,Stewart Hayward,1973-11-27,2015.0,M,CANADA,"Calgary, , Canada",nan value,nan value,nan value,cw
+327,f76cfc27-4f6d-4e71-bdc5-a26527d054ce,Robert,Mitten,Robert Mitten,1963-10-03,2015.0,M,UNITED STATES,"Plantation, Florida, United States",nan value,nan value,nan value,cw
+328,18d82f63-a0b8-4354-8083-b3e47f050ff1,Kasey,Kahne,Kasey Kahne,1980-04-10,2004.0,M,UNITED STATES,"Enumclaw, Washington, United States",kaseykahne,68.0,nan value,cw
+329,b737a38d-eff8-40f9-a694-27cf624c24ee,Daniel,Brown,Daniel Brown,1991-07-05,2015.0,M,ENGLAND,"Essex, , England",nan value,nan value,nan value,cw
+330,9824ed84-c894-4e8b-b674-a04b342e061a,Jimmy,Weller,Jimmy Weller III,1985-11-20,2014.0,M,UNITED STATES,"Hubbard, Ohio, United States",nan value,nan value,nan value,cw
+331,d513c371-f43b-4a44-80f3-ea4af863c5d2,Kyle,Fowler,Kyle Fowler,1992-06-07,2015.0,M,UNITED STATES,"Smyrna, Georgia, United States",nan value,nan value,nan value,cw
+332,38aabaad-d363-4a13-a6a5-ee45490fac14,Tyler,Tanner,Tyler Tanner,1991-07-09,2011.0,M,UNITED STATES,"Auburn, Washington, United States",nan value,nan value,nan value,cw
+333,d4fac7e9-dbc0-4547-9d90-abc7c50494a3,Jody,Knowles,Jody Knowles,1986-03-03,2014.0,M,UNITED STATES,"Tryone, Georgia, United States",nan value,nan value,nan value,cw
+334,ee6b2d6c-caa9-496c-87d6-2d427bc168a8,Chad,Boat,Chad Boat,1992-04-30,2014.0,M,UNITED STATES,"Phoenix, Arizona, United States",nan value,nan value,nan value,cw
+335,0ce4113d-34c8-4272-b658-3b929238dbd3,Brad,Keselowski,Brad Keselowski,1984-02-12,2010.0,M,UNITED STATES,"Rochester Hills, Michigan, United States",keselowski,70.0,nan value,cw
+336,147b907c-98c4-4890-9bb7-0db3b210b785,Stanton,Barrett,Stanton Barrett,1972-12-01,2015.0,M,UNITED STATES,"Bishop, California, United States",nan value,73.0,nan value,cw
+337,67c795a5-0d15-4b13-b340-30b1c8e2eb71,Scott,Heckert,Scott Heckert,1993-11-21,2016.0,M,UNITED STATES,"Ridgefield, Connecticut, United States",nan value,nan value,nan value,xf
+338,048726db-d4ca-49f7-8e28-e8993958236f,Josh,Berry,Josh Berry,1990-10-22,2021.0,M,UNITED STATES,"Hendersonville, Tennessee, United States",JoshBerry,nan value,nan value,xf
+339,11ae1582-4211-4cf4-aade-db0f9bcca105,Tommy Joe,Martins,Tommy Joe Martins,1986-12-07,2014.0,M,UNITED STATES,"Como, Mississippi, United States",TommyJoeMartins,nan value,nan value,xf
+340,e4b9e60e-d4c2-4b42-93c3-0fa1f2695160,Bayley,Currey,Bayley Currey,1996-10-29,2018.0,M,UNITED STATES,"Driftwood, Texas, United States",nan value,nan value,nan value,xf
+341,a35fd670-da61-4091-9673-60d6dc62752f,Jesse,Iwuji,Jesse Iwuji,1987-08-12,2022.0,M,UNITED STATES,"Carrollton, Texas, United States",nan value,nan value,nan value,xf
+342,6334f9f0-8b97-4020-8204-2ba30e7dd4ba,John H.,Nemechek,John H. Nemechek,1997-06-11,2015.0,M,UNITED STATES,"Mooresville, North Carolina, United States",JHNemechek,nan value,nan value,xf
+343,cb54b9b5-bb7b-400d-9838-ef85747bb2d1,Ryan,Truex,Ryan Truex,1992-03-18,2011.0,M,UNITED STATES,"Mayetta, New Jersey, United States",ryan_truex,nan value,nan value,xf
+344,80180569-76d9-4b57-88da-7669987bb856,Preston,Pardus,Preston Pardus,1997-02-15,2019.0,M,UNITED STATES,"New Smyrna Beach, Florida, United States",nan value,nan value,nan value,xf
+345,80180569-76d9-4b57-88da-7669987bb856,Preston,Pardus,Preston Pardus,1997-02-15,2019.0,M,UNITED STATES,"New Smyrna Beach, Florida, United States",nan value,nan value,nan value,xf
+346,939e647d-756f-41d7-ad65-609344f64bd5,Bubba,Wallace,Bubba Wallace,1993-10-08,2013.0,M,UNITED STATES,"Mobile, Alabama, United States",BubbaWallace,nan value,nan value,xf
+347,2e33a0c7-05f0-4887-bcbd-b64606114676,Jeffrey,Earnhardt,Jeffrey Earnhardt,1989-06-22,2013.0,M,UNITED STATES,"Mooresville, North Carolina, United States",JEarnhardt1,nan value,nan value,xf
+348,6b94aa52-e320-4388-9039-48a2f6df2ce4,Natalie,Decker,Natalie Decker,1997-06-25,2019.0,F,UNITED STATES,"Eagle River, Wisconsin, United States",nan value,nan value,nan value,xf
+349,51b06822-f389-4256-bff2-ae5f5d8f7525,Kaz,Grala,Kaz Grala,1998-12-29,2017.0,M,UNITED STATES,"Westborough, Massachusetts, United States",nan value,nan value,nan value,xf
+350,e13afeb8-b199-4bf5-8404-5edfdc617565,Justin,Allgaier,Justin Allgaier,1986-06-06,2008.0,M,UNITED STATES,"Riverton, Illinois, United States",J_Allgaier,nan value,nan value,xf
+351,1183e135-a9fa-4a91-9e0a-8895b2854226,Patrick,Gallagher,Patrick Gallagher,1979-01-01,2019.0,M,UNITED STATES,"Thornville, Ohio, United States",nan value,nan value,nan value,xf
+352,dde7052f-25f0-4e9e-9779-6bc2943bac99,Trevor,Bayne,Trevor Bayne,1991-02-19,2009.0,M,UNITED STATES,"Knoxville, Tennessee, United States",TBayne6,71.0,175.0,xf
+353,5acd218f-cf28-45e5-82b5-ed6e1d836872,Dexter,Bean,Dexter Bean,1987-01-05,2009.0,M,UNITED STATES,"Westby, Wisconsin, United States",nan value,nan value,nan value,xf
+354,db560f1a-2ea3-4e9d-b63b-b26e75e90605,Parker,Chase,Parker Chase,2001-02-23,2022.0,M,UNITED STATES,"New Braunfels, Texas, United States",nan value,nan value,nan value,xf
+355,6e5e1df9-f740-4d66-8bfb-d27b73b25d8a,Gar,Robinson,Gar Robinson,1995-01-17,2022.0,M,UNITED STATES,"San Antonio, Texas, United States",nan value,nan value,nan value,xf
+356,9e7c6f14-d70d-4fd2-9088-b17f863ee568,Brandon,Brown,Brandon Brown,1993-09-14,2019.0,M,UNITED STATES,"Woodbridge, Virginia, United States",86BrandonBrown,nan value,nan value,xf
+357,abab879c-93b3-4476-95a0-47f60df1a0e4,Noah,Gragson,Noah Gragson,1998-07-15,2017.0,M,UNITED STATES,"Las Vegas, Nevada, United States",nan value,nan value,nan value,xf
+358,96d34584-89d6-4f49-aee5-5bc0dcabb266,Will,Rodgers,Will Rodgers,1994-10-08,2019.0,M,UNITED STATES,"Maui, Hawaii, United States",nan value,nan value,nan value,xf
+359,a602316b-3712-4de2-9098-7fcd887e7bd2,Parker,Kligerman,Parker Kligerman,1990-08-08,2011.0,M,UNITED STATES,"Westport, Connecticut, United States",pkligerman,nan value,nan value,xf
+360,7ec39c5e-a620-401f-82f7-50713b7c4b30,Myatt,Snider,Myatt Snider,1994-12-30,2018.0,M,UNITED STATES,"Charlotte, North Carolina, United States",nan value,nan value,nan value,xf
+361,fc04af5e-bd27-4e87-850c-a72e22dcb4a6,AJ,Allmendinger,AJ Allmendinger,1981-12-16,2007.0,M,UNITED STATES,"Los Gatos, California, United States",AJDinger,66.0,nan value,xf
+362,70dfae62-9b3d-41eb-a81a-0360195ef7c3,Rajah,Caruth,Rajah Caruth,2002-06-11,2022.0,M,UNITED STATES,"Washington, District of Columbia, United States",nan value,nan value,nan value,xf
+363,e9d5fede-f16b-4f3a-ba79-06caf772c287,Derek,Griffith,Derek Griffith,1997-02-09,2022.0,M,UNITED STATES,"Hudson, New Hampshire, United States",nan value,nan value,nan value,xf
+364,460d88fe-cf23-495e-8f04-98729874023c,Daniel,Hemric,Daniel Hemric,1991-01-27,2015.0,M,UNITED STATES,"Kannapolis, North Carolina, United States",DanielHemric,nan value,nan value,xf
+365,6e5a779b-11fa-46bf-bfc9-51efedfe66c4,Gray,Gaulding,Gray Gaulding,1998-02-10,2014.0,M,UNITED STATES,"Colonial Heights, Virginia, United States",graygaulding,nan value,nan value,xf
+366,9d3664e8-1908-4b50-9d8a-f6be365d0cb1,Josh,Williams,Josh Williams,1992-08-03,2016.0,M,UNITED STATES,"Port Charlotte, Florida, United States",nan value,nan value,nan value,xf
+367,55db3948-c3b7-49e9-bb61-7f5450e4a1e4,Alex,Labbe,Alex Labbe,1993-04-29,2018.0,M,CANADA,"Victoriaville, Quebec, , Canada",nan value,nan value,nan value,xf
+368,32251b56-7387-4ade-8482-0917553218f4,JJ,Yeley,JJ Yeley,1976-10-05,2006.0,M,UNITED STATES,"Phoenix, Arizona, United States",jjyeley1,68.0,nan value,xf
+369,06ad66e1-76fa-488d-b25d-836bca3d0cee,Mason,Massey,Mason Massey,1997-01-24,2020.0,M,UNITED STATES,"Douglasville, Georgia, United States",nan value,nan value,nan value,xf
+370,c11cad13-bcf3-47ea-bb7f-be2b4d8d8e18,Brett,Moffitt,Brett Moffitt,1992-08-07,2015.0,M,UNITED STATES,"Grimes, Iowa, United States",Brett_Moffitt,nan value,nan value,xf
+371,fb6c45e9-990e-46e3-88df-174449c13334,Ross,Chastain,Ross Chastain,1992-12-04,2012.0,M,UNITED STATES,"Alva, Florida, United States",RossChastain,nan value,nan value,xf
+372,e913a9e0-1ab4-494a-be63-7135d1f403c2,Chad,Finchum,Chad Finchum,1994-09-22,2018.0,M,UNITED STATES,"Knoxville, Tennessee, United States",nan value,nan value,nan value,xf
+373,e913a9e0-1ab4-494a-be63-7135d1f403c2,Chad,Finchum,Chad Finchum,1994-09-22,2018.0,M,UNITED STATES,"Knoxville, Tennessee, United States",nan value,nan value,nan value,xf
+374,53a361e5-644d-461e-8777-9b22b3528114,Ty,Gibbs,Ty Gibbs,2002-10-04,2021.0,M,UNITED STATES,"Charlotte, North Carolina, United States",nan value,nan value,nan value,xf
+375,d18adf1a-679d-4ea5-a251-253ac7d03b75,Ryan,Ellis,Ryan Ellis,1989-11-29,2012.0,M,UNITED STATES,"Ashburn, Virginia, United States",ryanellisracing,nan value,nan value,xf
+376,d58de4c5-6ad3-4c28-bf16-607d5a4c4a6e,Ryan,Vargas,Ryan Vargas,2000-09-23,2021.0,M,UNITED STATES,"La Mirada, California, United States",nan value,nan value,nan value,xf
+377,e615b810-e822-43ab-921a-9f60392ff2e2,Timothy,Viens,Timothy Viens,1976-10-10,2021.0,M,UNITED STATES,"Daytona Beach, Florida, United States",TViens,nan value,nan value,xf
+378,614d3671-2b12-42d6-915e-2521b859e370,Kyle,Weatherman,Kyle Weatherman,1997-08-28,2019.0,M,UNITED STATES,"Wentzville, Missouri, United States",KyleWeatherman,nan value,nan value,xf
+379,e948835e-ef16-4b14-bd21-c0a6c443c5ee,Parker,Retzlaff,Parker Retzlaff,2003-05-21,2022.0,M,UNITED STATES,"Rhinelander, Wisconsin, United States",nan value,nan value,nan value,xf
+380,f07507f1-0a84-4b90-929d-7389dc5baab4,Landon,Cassill,Landon Cassill,1989-07-07,2008.0,M,UNITED STATES,"Cedar Rapids, Iowa, United States",landoncassill,67.0,nan value,xf
+381,c7beb5c5-3d88-4dec-881f-793e68ee2d19,Jeb,Burton,Jeb Burton,1992-08-06,2013.0,M,UNITED STATES,"Halifax, Virginia, United States",JebBurtonRacing,nan value,nan value,xf
+382,97a4a46c-baa3-4bff-8068-2fc347e37d9a,Brennan,Poole,Brennan Poole,1991-04-11,2016.0,M,UNITED STATES,"The Woodlands, Texas, United States",brennanpoole,nan value,nan value,xf
+383,e28a64ca-c622-4b28-b0d9-28bc9390f9e4,Ryan,Preece,Ryan Preece,1990-10-25,2016.0,M,UNITED STATES,"Berlin, Connecticut, United States",RyanPreece_,nan value,nan value,xf
+384,f6be7551-6856-4bcf-ba3a-241d5a2016a6,Shane,Lee,Shane Lee,1993-07-04,2018.0,M,UNITED STATES,"Newton, North Carolina, United States",nan value,nan value,nan value,xf
+385,665b991b-16f4-4e13-ab70-d29224a0a949,Sage,Karam,Sage Karam,1995-03-05,2021.0,M,UNITED STATES,"Nazareth, Pennsylvania, United States",nan value,nan value,nan value,xf
+386,3ee8cca6-048e-4e36-9216-ed27d294611b,Cole,Custer,Cole Custer,1998-01-23,2016.0,M,UNITED STATES,"Ladera Ranch, California, United States",colecuster00,nan value,nan value,xf
+387,eada2f6f-b30d-453f-92c0-2e8b31ca8b5a,Drew,Dollar,Drew Dollar,2000-12-02,2022.0,M,UNITED STATES,"Atlanta, Georgia, United States",nan value,nan value,nan value,xf
+388,04fd1868-6005-414e-b2a4-7f27f5a0ca3e,Loris,Hezemans,Loris Hezemans,1997-05-26,2019.0,M,NETHERLANDS,"Eindhoven, , Netherlands",nan value,nan value,nan value,xf
+389,69d058ca-9fce-4c4f-81f4-34afdc22fd6d,Howie,Disavino,Howie Disavino III,2001-04-10,2022.0,M,UNITED STATES,"Chesterfield, Virginia, United States",nan value,nan value,nan value,xf
+390,fc60204c-116b-40d8-a59e-a565e54e3fda,Dale,Earnhardt,Dale Earnhardt Jr,1974-10-10,1998.0,M,UNITED STATES,"Kannapolis, North Carolina, United States",DaleJr,72.0,165.0,xf
+391,1a64406d-c51c-47ce-8fb9-a5bb62eb0d9f,Austin,Hill,Austin Hill,1994-04-21,2022.0,M,UNITED STATES,"Winston, Georgia, United States",_AustinHill,nan value,nan value,xf
+392,329c2b87-4135-4bb3-982b-c9add9ebe6f6,Stefan,Parsons,Stefan Parsons,1998-06-15,2019.0,M,UNITED STATES,"Cornelius, North Carolina, United States",nan value,nan value,nan value,xf
+393,4ab0cc83-8d2b-4922-a294-d8749829eca8,Jeremy,Clements,Jeremy Clements,1985-01-16,2003.0,M,UNITED STATES,"Spartanburg, South Carolina, United States",JClements51,nan value,nan value,xf
+394,c41c8d12-aa7d-45ca-8dc6-c27e70327528,Dillon,Bassett,Dillon Bassett,1997-04-02,2019.0,M,UNITED STATES,"Winston-Salem, North Carolina, United States",nan value,nan value,nan value,xf
+395,2987a290-93b9-4f4e-9b12-c68b4ed126a4,Riley,Herbst,Riley Herbst,1999-02-24,2020.0,M,UNITED STATES,"Las Vegas, Nevada, United States",nan value,nan value,nan value,xf
+396,01ff30a4-ad3b-4f5c-b3e7-7e41e1ff3278,Harrison,Rhodes,Harrison Rhodes,1993-07-15,2015.0,M,UNITED STATES,"High Point, North Carolina, United States",HarrisonRhodes,nan value,nan value,xf
+397,81228be2-3223-4e34-80d3-e68f616e8fc6,Ryan,Sieg,Ryan Sieg,1987-06-20,2014.0,M,UNITED STATES,"Tucker, Georgia, United States",RyanSiegRacing,nan value,nan value,xf
+398,affd80d6-d7e5-4556-af79-138903dbcde2,Kyle,Sieg,Kyle Sieg,2001-04-16,2022.0,M,UNITED STATES,"Tucker, Georgia, United States",nan value,nan value,nan value,xf
+399,3ec3a264-978e-4d79-9f2a-3e2c7d38b8a0,Jesse,Little,Jesse Little,1997-04-15,2020.0,M,UNITED STATES,"Sherrills Ford, North Carolina, United States",jesselittle97,nan value,nan value,xf
+400,3ec3a264-978e-4d79-9f2a-3e2c7d38b8a0,Jesse,Little,Jesse Little,1997-04-15,2020.0,M,UNITED STATES,"Sherrills Ford, North Carolina, United States",jesselittle97,nan value,nan value,xf
+401,4cccb84a-4841-45e1-9ccf-e1aff0222ab4,Cj,McLaughlin,Cj McLaughlin,1979-01-01,2019.0,M,UNITED STATES,"Framingham, Massachusetts, United States",nan value,nan value,nan value,xf
+402,f7cd3bba-d48c-4caa-9c24-1e4eb34708e3,Stan,Mullis,Stan Mullis,1969-09-22,2017.0,M,UNITED STATES,"Las Vegas, Nevada, United States",nan value,nan value,nan value,xf
+403,3db91061-ac01-4c67-97b2-ee1c3101e483,Miguel,Paludo,Miguel Paludo,1983-07-26,2011.0,M,BRAZIL,"Nova Prata, , Brazil",MiguelPaludo,nan value,nan value,xf
+404,434eb5c2-23e5-44c3-ac41-9695c900d748,Anthony,Alfredo,Anthony Alfredo,1999-03-31,2019.0,M,UNITED STATES,"Ridgefield, Connecticut, United States",nan value,nan value,nan value,xf
+405,22732946-c7f9-45e8-82ed-fd54c8a92272,Patrick,Emerling,Patrick Emerling,1992-09-19,2020.0,M,UNITED STATES,"Orchard Park, New York, United States",nan value,nan value,nan value,xf
+406,e08cfaf7-f99a-47b8-84c6-4c943e95ead6,David,Starr,David Starr,1967-10-11,2000.0,M,UNITED STATES,"Houston, Texas, United States",DavidStarr44,69.0,nan value,xf
+407,9c41a48a-f0fc-4b0f-aad4-5c2c47ae7166,Jade,Buford,Jade Buford,1988-02-15,2020.0,M,UNITED STATES,"Nashville, Tennessee, United States",nan value,nan value,nan value,xf
+408,2c1c1628-d612-45cf-951c-7626373d1c79,Sam,Mayer,Sam Mayer,2003-06-26,2021.0,M,UNITED STATES,"Franklin, Wisconsin, United States",nan value,nan value,nan value,xf
+409,91ef2e56-87d1-4471-8794-65497f4ed449,Ronnie,Bassett,Ronnie Bassett Jr,1995-12-21,2019.0,M,UNITED STATES,"Winston-Salem, North Carolina, United States",nan value,nan value,nan value,xf
+410,3351be0f-248d-4901-85cc-20c33d4ead00,Caesar,Bacarella,Caesar Bacarella,1975-12-18,2017.0,M,UNITED STATES,"Parkland, Florida, United States",nan value,nan value,nan value,xf
+411,5b2a4c69-46ea-4b41-96ec-ec27d47ae89c,Matt,Mills,Matt Mills,1996-11-14,2017.0,M,UNITED STATES,"New Philadelphia, Ohio, United States",nan value,nan value,nan value,xf
+412,61d62118-dddb-4b80-888e-007ea2f046a7,Joe,Graf,Joe Graf Jr,1998-07-12,2020.0,M,UNITED STATES,"Mahwah, New Jersey, United States",nan value,nan value,nan value,xf
+413,01399821-2c69-4580-94dd-d1c507194f45,Brandon,Jones,Brandon Jones,1997-02-18,2015.0,M,UNITED STATES,"Atlanta, Georgia, United States",brandonjonesrac,nan value,nan value,xf
+414,788d2f69-6260-40c0-ad66-631a9cc0c24d,Joey,Gase,Joey Gase,1993-02-08,2012.0,M,UNITED STATES,"Cedar Rapids, Iowa, United States",JoeyGaseRacing,nan value,nan value,xf
+415,a9988edd-7707-4a75-9ee5-d3a8cae0c8aa,Timmy,Hill,Timmy Hill,1993-02-25,2011.0,M,UNITED STATES,"Port Tobacco, Maryland, United States",TimmyHillRacer,nan value,nan value,xf
+416,8dd98524-b888-4f59-a32c-f6b66b3730b6,Sheldon,Creed,Sheldon Creed,1997-09-30,2019.0,M,UNITED STATES,"Alpine, California, United States",nan value,nan value,nan value,xf
+417,d259900a-e2e7-4612-b201-178bb80a862c,Josh,Bilicki,Josh Bilicki,1995-06-03,2018.0,M,UNITED STATES,"Menomonee Falls, Wisconsin, United States",nan value,nan value,nan value,xf
+418,b9de8c10-ab1c-4a69-b01e-dd65f3a392d8,Nicholas,Sanchez,Nicholas Sanchez,2001-06-10,2022.0,M,UNITED STATES,"Miami, Florida, United States",nan value,nan value,nan value,xf
+419,5fd3e3fb-322f-4157-ae41-9317fba1997d,Chase,Elliott,Chase Elliott,1995-11-28,2014.0,M,UNITED STATES,"Dawsonville, Georgia, United States",chaseelliott,nan value,nan value,xf
+420,ddf5bad4-6560-47eb-b1c0-573e94067c01,Danny,Bohn,Danny Bohn,1988-06-29,2021.0,M,UNITED STATES,"Freehold, New Jersey, United States",nan value,nan value,nan value,xf
+421,19beaf1e-1823-43fd-a91c-5d2a3831ba51,Dave,Smith,Dave Smith,1967-02-19,2021.0,M,UNITED STATES,"Novato, California, United States",nan value,nan value,nan value,xf
+422,198c8de5-9175-4c42-acad-a1d8de6df398,Harrison,Burton,Harrison Burton,2000-10-09,2019.0,M,UNITED STATES,"Huntersville, North Carolina, United States",nan value,nan value,nan value,xf
+423,a3d0453d-b856-4aa6-9cc4-f022151da42f,Giorgio,Maggi,Giorgio Maggi,1997-12-18,2020.0,M,SWITZERLAND,"Hergiswil, , Switzerland",nan value,nan value,nan value,xf
+424,069ba6f3-97c0-4172-826a-36c605918e99,Dawson,Cram,Dawson Cram,2001-09-12,2021.0,M,UNITED STATES,"Mooresville, North Carolina, United States",nan value,nan value,nan value,xf
+425,b727979c-034a-41ca-9136-921914c1896f,Michael,Annett,Michael Annett,1986-06-23,2009.0,M,UNITED STATES,"Des Moines, Iowa, United States",MichaelAnnett,nan value,nan value,xf
+426,971ba306-74df-48e9-a221-78bdd381c346,Mike,Harmon,Mike Harmon,1958-01-24,1996.0,M,UNITED STATES,"Birmingport, Alabama, United States",hrmn8ter,69.0,nan value,xf
+427,b2f2b44e-1b64-4cee-87f5-2855937f8ab2,Boris,Said,Boris Said,1962-09-18,1998.0,M,UNITED STATES,"Carlsbad, California, United States",nan value,72.0,nan value,xf
+428,8853e676-384e-4d08-8808-970fd111f36a,Austin,Dillon,Austin Dillon,1990-04-27,2010.0,M,UNITED STATES,"Welcome, North Carolina, United States",austindillon3,nan value,nan value,xf
+429,fa1dba10-512b-4cfd-bcb7-c8e4963a209d,Cody,Ware,Cody Ware,1995-11-07,2015.0,M,UNITED STATES,"Greensboro, North Carolina, United States",CodyShaneWare,nan value,nan value,xf
+430,67510afb-946c-4ac3-9513-9728a39248b1,Chris,Cockrum,Chris Cockrum,1986-12-24,2014.0,M,UNITED STATES,"Conyers, Georgia, United States",nan value,nan value,nan value,xf
+431,4d95ef3a-46cc-43c2-b340-c92cea2ed7f8,Martin,Truex,Martin Truex Jr,1980-06-29,2004.0,M,UNITED STATES,"Mayetta, New Jersey, United States",MartinTruex_Jr,71.0,180.0,xf
+432,5ae1a122-28a3-461b-82e0-955c0d1132fa,BJ,McLeod,BJ McLeod,1983-11-17,2016.0,M,UNITED STATES,"Wauchula, Florida, United States",bjmcleod78,nan value,nan value,xf
+433,26f629b5-8682-4db6-a91f-bf0f732f505a,Austin,Cindric,Austin Cindric,1998-09-02,2017.0,M,UNITED STATES,"Mooresville, North Carolina, United States",AustinCindric,nan value,nan value,xf
+434,84de376a-5569-4ece-aa8b-acdef6158662,Spencer,Pumpelly,Spencer Pumpelly,1974-12-28,2021.0,M,UNITED STATES,"Arlington, Virginia, United States",nan value,nan value,nan value,xf
+435,4817fcda-cb6f-4828-a158-c7d89f682e81,Mike,Skeen,Mike Skeen,1986-10-25,2018.0,M,UNITED STATES,"Durham, North Carolina, United States",nan value,75.0,180.0,xf
+436,742af181-0cd8-4c7d-b8d4-bf1698cfa1e1,Andy,Lally,Andy Lally,1975-02-11,2008.0,M,UNITED STATES,"Northport, New York, United States",AndyLally,nan value,nan value,xf
+437,342cf717-5827-4dc6-8100-7abf2310ef6e,Michael,Munley,Michael Munley,1998-12-27,2021.0,M,UNITED STATES,"South Riding, Virginia, United States",nan value,nan value,nan value,xf
+438,e32ad7cf-adbb-4800-89d1-9edf5c18ce50,Carson,Ware,Carson Ware,2000-02-28,2020.0,M,UNITED STATES,"Jamestown, North Carolina, United States",nan value,nan value,nan value,xf
+439,9d18716c-fd73-48d4-b3da-44228c767b84,Kevin,Harvick,Kevin Harvick,1975-12-08,2001.0,M,UNITED STATES,"Bakersfield, California, United States",KevinHarvick,70.0,175.0,xf
+440,178b65e8-f0ae-4c37-942d-e227bdbc1452,Ryan,Eversley,Ryan Eversley,1983-12-22,2021.0,M,UNITED STATES,"Winder, Georgia, United States",nan value,nan value,nan value,xf
+441,446374b6-7f4c-4f82-982a-68fd9abad4b4,George,Gorham,George Gorham Jr,1982-02-13,2021.0,M,UNITED STATES,"Lakeland, Florida, United States",nan value,nan value,nan value,xf
+442,9c0ead27-e7d3-4861-9e2d-a77e166dc955,Grant,Enfinger,Grant Enfinger,1985-01-22,2017.0,M,UNITED STATES,"Fairhope, Alabama, United States",GrantEnfinger,nan value,nan value,xf
+443,24a499dd-32de-476b-a77c-0adeeaf75e68,Tanner,Berryhill,Tanner Berryhill,1993-11-29,2014.0,M,UNITED STATES,"Bixby, Oklahoma, United States",tannerberryhill,nan value,nan value,xf
+444,bfcb8d32-fab0-4bfa-be14-cf9466e1d886,Ty,Dillon,Ty Dillon,1992-02-27,2012.0,M,UNITED STATES,"Welcome, North Carolina, United States",TyDillon,nan value,nan value,xf
+445,4728414b-132d-485c-8a05-91c97896d46e,Jason,White,Jason White,1979-06-05,2007.0,M,UNITED STATES,"Richmond, Virginia, United States",jasonwhite23,nan value,nan value,xf
+446,4728414b-132d-485c-8a05-91c97896d46e,Jason,White,Jason White,1979-06-05,2007.0,M,UNITED STATES,"Richmond, Virginia, United States",jasonwhite23,nan value,nan value,xf
+447,3c19ebc2-e3e9-4ec1-abb1-90d93293312f,Stephen,Leicht,Stephen Leicht,1987-01-09,2012.0,M,UNITED STATES,"Asheville, North Carolina, United States",StephenLeicht,nan value,nan value,xf
+448,8cc72133-c5ea-49c1-9a23-f4db5464d42f,Kris,Wright,Kris Wright,1994-07-17,2021.0,M,UNITED STATES,"Wexford, Pennsylvania, United States",nan value,nan value,nan value,xf
+449,85c06960-3610-4eff-9ef2-18641b84c952,Kyle,Busch,Kyle Busch,1985-05-02,2004.0,M,UNITED STATES,"Las Vegas, Nevada, United States",kylebusch,73.0,nan value,xf
+450,3f8f1ebf-93da-4fab-8324-ef31975e87b0,Mario,Gosselin,Mario Gosselin,1971-10-20,2004.0,M,CANADA,"St. Marie, , Canada",MarioGosselin,nan value,nan value,xf
+451,62369fd2-886e-41b1-bd56-8452b55216f1,Dylan,Lupton,Dylan Lupton,1993-12-07,2015.0,M,UNITED STATES,"Wilton, California, United States",LuptonDylan,nan value,nan value,xf
+452,ce805205-7fa6-46b7-980a-d3017d870be7,Spencer,Boyd,Spencer Boyd,1995-06-26,2018.0,M,UNITED STATES,"St. Louis, Missouri, United States",nan value,nan value,nan value,xf
+453,6e3ed92a-ee25-4dea-b116-d493ebccba07,Justin,Haley,Justin Haley,1999-04-28,2017.0,M,UNITED STATES,"Winamac, Indiana, United States",nan value,nan value,nan value,xf
+454,18de8d55-bf38-4988-919f-eed5d6092f23,Blaine,Perkins,Blaine Perkins,2000-02-28,2021.0,M,UNITED STATES,"Bakersfield, California, United States",nan value,nan value,nan value,xf
+455,b1674f2f-dbc1-4c70-8fda-bb541fc39b04,Jordan,Anderson,Jordan Anderson,1991-04-15,2021.0,M,UNITED STATES,"Forest Acres, South Carolina, United States",j66anderson,nan value,nan value,xf
+456,067ceb68-5ddd-4967-8ad9-66d45df5e55c,Santino,Ferrucci,Santino Ferrucci,1998-05-31,2021.0,M,UNITED STATES,"Woodbury, Connecticut, United States",nan value,nan value,nan value,xf
+457,16497cd0-5add-407a-b9a8-eec7d62e413b,Christopher,Bell,Christopher Bell,1994-12-16,2016.0,M,UNITED STATES,"Norman, Oklahoma, United States",CBellRacing,nan value,nan value,xf
+458,2ead30ae-bf65-4eea-9b16-d70de2eb5e18,Matt,Jaskol,Matt Jaskol,1984-10-15,2021.0,M,UNITED STATES,"Agoura Hills, California, United States",nan value,nan value,nan value,xf
+459,b716da8d-0bd5-4c07-809b-0230044e231b,Max,Papis,Max Papis,1969-10-03,2009.0,M,ITALY,"Como, , Italy",maxpapis,72.0,nan value,xf
+460,25ca1ab3-b013-48cb-b4a4-c10fb45ba397,Chase,Briscoe,Chase Briscoe,1994-12-15,2017.0,M,UNITED STATES,"Mitchell, Indiana, United States",nan value,nan value,nan value,xf
+461,e595780e-baa7-4988-9a19-311fef7414d5,Erik,Jones,Erik Jones,1996-05-30,2015.0,M,UNITED STATES,"Byron, Michigan, United States",erik_jones,nan value,nan value,xf
+462,da009500-d242-47b9-98ed-dcf482f42447,Brandon,Gdovic,Brandon Gdovic,1992-02-28,2015.0,M,UNITED STATES,"Yorktown, Virginia, United States",BrandonGdovic,nan value,nan value,xf
+463,7f33e2c1-4634-4894-98ad-c70c7ce914ac,James,Davison,James Davison,1986-08-28,2016.0,M,AUSTRALIA,"Melbourne, , Australia",nan value,nan value,nan value,xf
+464,81656cc6-90cb-4880-9e31-fb5db1db84af,Colin,Garrett,Colin Garrett,2000-07-06,2019.0,M,UNITED STATES,"Elmo, Virginia, United States",nan value,nan value,nan value,xf
+465,4e2b46b2-c7ed-492c-8906-f78445d76d80,Robby,Lyons,Robby Lyons,1989-01-22,2019.0,M,UNITED STATES,"Seminole, Florida, United States",nan value,nan value,nan value,xf
+466,cb9d6f49-0044-4305-be9a-22d428e52c95,Denny,Hamlin,Denny Hamlin,1980-11-18,2006.0,M,UNITED STATES,"Chesterfield, Virginia, United States",DennyHamlin,72.0,nan value,xf
+467,b030a8df-e7de-44a4-9f59-34bb9fd227d0,Tyler,Reddick,Tyler Reddick,1996-01-11,2014.0,M,UNITED STATES,"Corning, California, United States",TylerReddick,nan value,nan value,xf
+468,35a6fe75-7b32-4b7b-af0c-e68cb0891f7a,Garrett,Smithley,Garrett Smithley,1992-04-27,2016.0,M,UNITED STATES,"Ligonier, Pennsylvania, United States",GarrettSmithley,nan value,nan value,xf
+469,3354a6c0-eac9-432e-80e1-38043ee4a26b,Akinori,Ogata,Akinori Ogata,1973-08-14,2018.0,M,JAPAN,"Kanagawa, , Japan",AkinoriOgata,nan value,nan value,xf
+470,0aed5a8b-390f-400a-be2d-b0f6fc98776f,Kyle,Tilley,Kyle Tilley,1988-02-16,2021.0,M,ENGLAND,"Bath, , England",nan value,nan value,nan value,xf
+471,3ec1dd6a-c9b8-4d82-821f-23d0bdd4b310,Zane,Smith,Zane Smith,1999-06-09,2020.0,M,UNITED STATES,"Huntington Beach, California, United States",nan value,nan value,nan value,xf
+472,27d6e4ac-466b-448e-aab4-0bc2dd62db7c,Colby,Howard,Colby Howard,2001-10-28,2020.0,M,UNITED STATES,"Simpsonville, South Carolina, United States",nan value,nan value,nan value,xf
+473,a886d059-8736-4b4b-91e4-0dc52337793b,John,Jackson,John Jackson,1964-02-13,2009.0,M,UNITED STATES,"Perry, Florida, United States",nan value,nan value,nan value,xf
+474,0ce4113d-34c8-4272-b658-3b929238dbd3,Brad,Keselowski,Brad Keselowski,1984-02-12,2010.0,M,UNITED STATES,"Rochester Hills, Michigan, United States",keselowski,70.0,nan value,xf
+475,747de0f4-1dad-40f3-9a32-812c619d287b,Ray,Black,Ray Black Jr,1991-05-17,2015.0,M,UNITED STATES,"Palm Coast, Florida, United States",RayBlackJr,70.0,135.0,xf
+476,badd2bc4-4e2a-400d-9420-4213a62af974,Harold,Crooms,Harold Crooms,1979-10-24,2020.0,M,UNITED STATES,"Lakeland, FL, , United States",nan value,nan value,nan value,xf
+477,f94ab49b-770a-4863-83ef-036994463349,Bobby,Reuse,Bobby Reuse,1970-05-18,2014.0,M,UNITED STATES,"Birmingham, Alabama, United States",bobaru,nan value,nan value,xf
+478,c7b7def2-7d2e-491c-a7cc-ba92d4f69d9f,Kody,Vanderwal,Kody Vanderwal,2001-01-19,2017.0,M,UNITED STATES,"LaSalle, Colorado, United States",nan value,nan value,nan value,xf
+479,aee2919b-4d67-4e42-a4df-1f9867728e8f,Jeff,Green,Jeff Green,1962-09-06,1994.0,M,UNITED STATES,"Owensboro, Kentucky, United States",buckcentral10,68.0,190.0,xf
+480,0fd72e84-dbcb-4247-8868-6e0f39ecda91,Rc,Enerson,Rc Enerson,1997-03-06,2020.0,M,nan value,", , ",nan value,nan value,nan value,xf
+481,aa127143-b882-480e-bc2c-858787890ba6,Vinnie,Miller,Vinnie Miller,1997-08-16,2018.0,M,UNITED STATES,"Metamora, Michigan, United States",nan value,nan value,nan value,xf
+482,e382e02a-d226-46f3-8e58-23baf4df39eb,Josh,Reaume,Josh Reaume,1990-10-11,2015.0,M,UNITED STATES,"Redlands, California, United States",joshreaume,nan value,nan value,xf
+483,a3640778-ab6e-4a08-b9f8-e41e19d7d6e5,Donald,Theetge,Donald Theetge,1966-10-30,2011.0,M,CANADA,"Boischatel, Quebec, , Canada",nan value,nan value,nan value,xf
+484,1fb0e2af-80f6-4c6b-bf02-c2c96a53c1ff,Joe,Nemechek,Joe Nemechek,1963-09-26,1994.0,M,UNITED STATES,"Lakeland, Florida, United States",FrontRowJoe87,69.0,nan value,xf
+485,2665684b-e8ec-490f-b0ca-5c76a546b82b,Carl,Long,Carl Long,1967-09-20,1999.0,M,UNITED STATES,"Roxboro, North Carolina, United States",nan value,70.0,nan value,xf
+486,eeeec600-02c6-45db-b5af-8dfa0092cde4,Earl,Bamber,Earl Bamber,1990-09-07,2020.0,M,NEW ZEALAND,"Wanganui, , New Zealand",nan value,nan value,nan value,xf
+487,326da72b-708d-4801-9bac-9421a34759cb,Ja Junior,Avila,Ja Junior Avila,1995-05-11,2018.0,M,UNITED STATES,"Los Angeles, California, United States",nan value,nan value,nan value,xf
+488,c887f553-43a2-4f60-8bc1-2a57b1324301,Mason,Diaz,Mason Diaz,2000-05-16,2019.0,M,UNITED STATES,"Manassas, Virginia, United States",nan value,nan value,nan value,xf
+489,4d0ce6cc-b1f6-4118-86e8-bfa501d8e1bb,Mike,Wallace,Mike Wallace,1959-03-10,1992.0,M,UNITED STATES,"St. Louis, Missouri, United States",MikeWallace01,72.0,nan value,xf
+490,df3c271a-b038-46c2-905e-6bad2684512e,Korbin,Forrister,Korbin Forrister,1992-11-16,2015.0,M,UNITED STATES,"Cedartown, Georgia, United States",korbinforrister,nan value,nan value,xf
+491,5d6958b2-1528-45d0-a3f2-5381c699edbd,Max,Tullman,Max Tullman,1997-08-22,2018.0,M,UNITED STATES,"Chester Springs, Pennsylvania, United States",nan value,nan value,nan value,xf
+492,5a285d9b-11e6-410f-82dd-b9bc3218071c,Ryan,Repko,Ryan Repko,1999-10-01,2019.0,M,UNITED STATES,"Denver, North Carolina, United States",nan value,nan value,nan value,xf
+493,06c9c0f9-392a-4f0e-aae7-39bb417af02f,Matt,DiBenedetto,Matt DiBenedetto,1991-07-27,2015.0,M,UNITED STATES,"Grass Valley, California, United States",mattdracing,nan value,nan value,xf
+494,b1f0ccce-7de3-4eff-8e45-9d7e0c6ea98e,Tyler,Hill,Tyler Hill,1994-06-02,2018.0,M,UNITED STATES,"Port Tobacco, Maryland, United States",nan value,nan value,nan value,xf
+495,4981bba7-2971-4c78-8fbd-feccf1afdb97,Todd,Peck,Todd Peck,1986-01-29,2015.0,M,UNITED STATES,"Glenville, Pennsylvania, United States",ToddPeck40,nan value,nan value,xf
+496,a3b9b332-7a31-4534-a7db-dc6028c0eaea,Dick,Karth,Dick Karth,1952-12-13,2019.0,M,UNITED STATES,"Grafton, Wisconsin, United States",nan value,nan value,nan value,xf
+497,a374590a-c82e-4ee4-9623-ba7d3ee82aad,Camden,Murphy,Camden Murphy,1996-07-23,2016.0,M,UNITED STATES,"Itasca, Illinois, United States",CamdenMurphy,nan value,nan value,xf
+498,894b273e-ce7d-446c-9ab0-d9a474ce9d7f,Joey,Logano,Joey Logano,1990-05-24,2009.0,M,UNITED STATES,"Middletown, Connecticut, United States",joeylogano,72.0,140.0,xf
+499,67948099-4196-4e1b-ae9e-b437aa99000a,Ryan,Blaney,Ryan Blaney,1993-12-31,2013.0,M,UNITED STATES,"High Point, North Carolina, United States",Blaney,nan value,nan value,xf
+500,860d0c45-9064-4929-a377-32f329a15b66,Tyler,Matthews,Tyler Matthews,1996-12-01,2019.0,M,UNITED STATES,"Richlands, North Carolina, United States",nan value,nan value,nan value,xf
+501,094b41f2-f109-4355-95cb-14ac2165c38e,Mike,Marlar,Mike Marlar,1978-01-30,2019.0,M,UNITED STATES,"Winfield, Tennessee, United States",nan value,nan value,nan value,xf
+502,0ec4ba07-486c-4128-802b-9fe848f3429a,Lawson,Aschenbach,Lawson Aschenbach,1983-11-22,2015.0,M,UNITED STATES,"Darnestown, Maryland, United States",lawsonracing,nan value,nan value,xf
+503,fb0b80b6-61f9-4afc-b94a-01cc64bd0213,Mark,Meunier,Mark Meunier,1964-06-05,2019.0,M,UNITED STATES,"Louisville, Kentucky, United States",nan value,nan value,nan value,xf
+504,8fa32d3b-a5ba-4eea-a4eb-9063ed7e7114,Morgan,Shepherd,Morgan Shepherd,1941-10-12,1970.0,M,UNITED STATES,"Ferguson, North Carolina, United States",MShepherd89,69.0,nan value,xf
+505,1095af84-0305-45b3-8726-68b008767c1b,Dan,Corcoran,Dan Corcoran,1957-09-13,2019.0,M,CANADA,"Kingston, , Canada",nan value,nan value,nan value,xf
+506,a0d5c2ae-f71b-49c7-a89d-aaa431109680,Hermie,Sadler,Hermie Sadler,1969-04-24,1992.0,M,UNITED STATES,"Emporia, Virginia, United States",HermieSadler,68.0,nan value,xf
+507,af12c91f-0341-468b-b49f-96ba8732df9f,Bobby,Earnhardt,Bobby Earnhardt,1987-09-01,2017.0,M,UNITED STATES,"Cleveland, North Carolina, United States",nan value,nan value,nan value,xf
+508,147b907c-98c4-4890-9bb7-0db3b210b785,Stanton,Barrett,Stanton Barrett,1972-12-01,1992.0,M,UNITED STATES,"Bishop, California, United States",stantonbarrett,73.0,nan value,xf
+509,90e23a17-80e4-426c-8437-7e20f0be2940,Chris,Dyson,Chris Dyson,1978-02-24,2019.0,M,UNITED STATES,"Poughkeepsie, New York, United States",nan value,nan value,nan value,xf
+510,72fda4d2-27d4-4144-8ce1-d1ba3050a710,Aaron,Quine,Aaron Quine,1979-01-01,2019.0,M,UNITED STATES,"Akron, Ohio, United States",nan value,nan value,nan value,xf
+511,cb239c48-8ccb-4043-a221-531b0da78765,Paul,Menard,Paul Menard,1980-08-21,2007.0,M,UNITED STATES,"Eau Claire, Wisconsin, United States",nan value,70.0,nan value,xf
+512,46f77b78-961b-48cc-8681-b971511d2d5e,D.J.,Kennington,D.J. Kennington,1977-07-15,2010.0,M,CANADA,"St. Thomas, , Canada",nan value,70.0,nan value,xf
+513,25c863f1-d98b-414e-857d-b0d3bc981f2a,Regan,Smith,Regan Smith,1983-09-23,2008.0,M,UNITED STATES,"Cato, New York, United States",ReganSmith,69.0,nan value,xf
+514,73244913-f54c-45b2-809d-975cc1882286,Nicolas,Hammann,Nicolas Hammann,1993-07-26,2016.0,M,UNITED STATES,"Elkhart Lake, Wisconsin, United States",nan value,nan value,nan value,xf
+515,968cbde9-2824-41a7-9d94-5f2765c4b829,Scott,Lagasse,Scott Lagasse Jr,1981-01-31,2009.0,M,UNITED STATES,"St. Augustine, Florida, United States",scottlagasse,nan value,nan value,xf
+516,5f43912a-ca8e-406d-8122-83cf0b0c6cd6,Jack,Hawksworth,Jack Hawksworth,1991-02-28,2019.0,M,ENGLAND,"Bradford, , England",nan value,nan value,nan value,xf
+517,3c1c41c0-efc1-4b3b-b9b4-918ae1f01951,Elliott,Sadler,Elliott Sadler,1975-04-30,1998.0,M,UNITED STATES,"Emporia, Virginia, United States",Elliott_Sadler,74.0,195.0,xf
+518,ab428344-fb5d-494c-9452-32fafc9a7536,Victor,Gonzalez,Victor Gonzalez Jr,1975-07-18,2009.0,M,PUERTO RICO,"Trujillo Alto, , Puerto Rico",VictorGonz,nan value,nan value,xf
+519,ec55af48-cddf-4f2d-bf82-d2c7e3bf203d,Brandon,Hightower,Brandon Hightower,1998-03-17,2016.0,M,UNITED STATES,"Natchitoches, Louisiana, United States",BHightowerb52,nan value,nan value,xf
+520,3c1c8459-ea46-4df5-b494-7b8072b70664,T.J.,Bell,T.J. Bell,1980-08-25,2003.0,M,UNITED STATES,"Reno, Nevada, United States",TJBell_racing,nan value,nan value,xf
+521,e228e4f4-deac-4eeb-acf6-cacdcb4bc81a,Kyle,Benjamin,Kyle Benjamin,1997-11-03,2019.0,M,UNITED STATES,"Easley, South Carolina, United States",kylebenjamin71,nan value,nan value,xf
+522,66d6cb11-de3a-4816-9c58-003a76634560,Brendan,Gaughan,Brendan Gaughan,1975-07-10,2009.0,M,UNITED STATES,"Las Vegas, Nevada, United States",brendan62,69.0,nan value,xf
+523,a02a44f5-eb45-4dcc-8c71-4a35bfaf31bf,Ryan,Reed,Ryan Reed,1993-08-12,2014.0,M,UNITED STATES,"Bakersfield, California, United States",driverRyanReed,nan value,nan value,xf
+524,d5435cba-2102-49e4-a1d8-389b11530304,Jennifer Jo,Cobb,Jennifer Jo Cobb,1973-06-12,2010.0,F,UNITED STATES,"Kansas City, Kansas, United States",JenJoCobb,nan value,nan value,xf
+525,e325d299-6458-4db8-9a5c-c836b8e4d56f,Tony,Mrakovich,Tony Mrakovich,1999-01-05,2018.0,M,UNITED STATES,", , United States",nan value,nan value,nan value,xf
+526,ebd0a08d-5308-442e-a2ae-2e40aafb3100,Daniel,Suarez,Daniel Suarez,1992-01-07,2015.0,M,MEXICO,"Monterrey, , Mexico",Daniel_SuarezG,nan value,nan value,xf
+527,786982d1-3653-49d8-83e6-06d2a65713c8,Bill,Elliott,Bill Elliott,1955-10-08,1976.0,M,UNITED STATES,"Dawsonville, Georgia, United States",nan value,73.0,nan value,xf
+528,c5d101d1-6e77-4e46-a02c-3cd307578f89,Spencer,Gallagher,Spencer Gallagher,1989-11-20,2015.0,M,UNITED STATES,"Las Vegas, Nevada, United States",23speedracer,nan value,nan value,xf
+529,3560705d-b150-4bd3-8275-6093f01524bc,Matt,Tifft,Matt Tifft,1996-06-26,2016.0,M,UNITED STATES,"Hinckley, Ohio, United States",matt_tifft,nan value,nan value,xf
+530,5b0db961-412b-40a8-84d0-c0a090f4b983,Angela,Ruch,Angela Ruch,1983-08-18,2011.0,F,UNITED STATES,"Puyallup, Washington, United States",AmberAngelaCope,nan value,nan value,xf
+531,f8d8ff36-bfcf-4d98-8eb2-353f1e8d3c34,Jamie,McMurray,Jamie McMurray,1976-06-03,2003.0,M,UNITED STATES,"Joplin, Missouri, United States",JamieMcMurray,68.0,nan value,xf
+532,92ed4816-67b8-4370-bbd1-a478a8bfe008,James,French,James French,1992-05-20,2018.0,M,UNITED STATES,"Sheboygan, Wisconsin, United States",nan value,nan value,nan value,xf
+533,e128a081-a2e8-4809-8038-8c936049bf7c,Aric,Almirola,Aric Almirola,1984-03-14,2011.0,M,UNITED STATES,"Tampa, Florida, United States",aric_almirola,72.0,nan value,xf
+534,f9ba01d2-748e-4855-a257-05c96b1ad1b0,Casey,Roderick,Casey Roderick,1992-08-08,2012.0,M,UNITED STATES,"Lawrenceville, Georgia, United States",CaseyRoderick,nan value,nan value,xf
+535,abcd29f7-6366-4897-94cf-e28240df59d4,Katherine,Legge,Katherine Legge,1980-07-12,2018.0,M,ENGLAND,"Guilford, , England",nan value,nan value,nan value,xf
+536,b26f0b6d-3ba4-47bd-ba90-553d0157dff3,Tim,Cowen,Tim Cowen,1958-08-18,2014.0,M,UNITED STATES,"Ashland, Ohio, United States",nan value,nan value,nan value,xf
+537,a756eefd-801d-4214-ab1b-0b595c21c37d,Kyle,Larson,Kyle Larson,1992-07-31,2013.0,M,UNITED STATES,"Elk Grove, California, United States",KyleLarsonRacin,nan value,nan value,xf
+538,d41b37dc-aa15-4aa6-82ea-35b7e51bfd0c,Peter,Shepherd,Peter Shepherd,1986-08-13,2018.0,M,CANADA,"London, , Canada",nan value,nan value,nan value,xf
+539,1ceefe2d-eecd-466e-8589-43de79aec127,David,Levine,David Levine,1993-07-03,2015.0,M,UNITED STATES,"Highland Park, Illinois, United States",nan value,nan value,nan value,xf
+540,4c660324-5f0a-48b5-891e-1bc100933997,Cody,Lane,Cody Lane,1996-01-03,2018.0,M,UNITED STATES,"Port Richey, Florida, United States",nan value,nan value,nan value,xf
+541,8d1f56fe-2dca-42e1-a9ea-e78399ee512e,Justin,Marks,Justin Marks,1981-03-25,2008.0,M,UNITED STATES,"Los Altos Hills, California, United States",JMarksDE,nan value,nan value,xf
+542,6510f39b-45c4-4568-af36-95e34ea0aeec,Conor,Daly,Conor Daly,1991-12-15,2018.0,M,UNITED STATES,"Noblesville, Indiana, United States",nan value,nan value,nan value,xf
+543,4d5ede64-88da-4381-a164-13880230f74a,Johnny,Sauter,Johnny Sauter,1978-05-01,2009.0,M,UNITED STATES,"Necedah, Wisconsin, United States",JohnnySauter,71.0,nan value,xf
+544,e71b88ec-f12c-4acd-bbc7-726833477f1f,Ty,Majeski,Ty Majeski,1994-08-18,2019.0,M,UNITED STATES,"Seymour, Wisconsin, United States",nan value,nan value,nan value,xf
+545,986c20d7-178a-4d77-bb46-dde8d453dda5,Blake,Jones,Blake Jones,1997-01-12,2016.0,M,UNITED STATES,"Sevierville, Tennessee, United States",nan value,nan value,nan value,xf
+546,20a226e4-3b55-407a-9f77-737e246543f1,Dylan,Murcott,Dylan Murcott,1992-08-06,2018.0,M,UNITED STATES,"Ancram, New York, United States",nan value,nan value,nan value,xf
+547,41358418-6638-433d-a26d-0e12f546d1e6,Quin,Houff,Quin Houff,1997-09-15,2017.0,M,UNITED STATES,"Weyers Cave, Virginia, United States",nan value,nan value,nan value,xf
+548,3ebef96f-43b4-422a-9d0c-db0127b25384,Alex,Bowman,Alex Bowman,1993-04-25,2013.0,M,UNITED STATES,"Tucson, Arizona, United States",AlexBRacing,nan value,nan value,xf
+549,82ae18b1-2637-46d0-8363-5c923f40a246,Cole,Rouse,Cole Rouse,1997-07-08,2018.0,M,UNITED STATES,"Fort Smith, Arkansas, United States",nan value,nan value,nan value,xf
+550,3b763dcc-3ab9-44d5-8b0e-a928bd2f5226,Brian,Henderson,Brian Henderson,1997-05-12,2017.0,M,UNITED STATES,"Falmouth, Virginia, United States",nan value,nan value,nan value,xf
+551,894b89bd-4973-46b2-8077-003ba0d860df,Chris,Cook,Chris Cook,1971-12-23,2005.0,M,UNITED STATES,"Phoenix, Arizona, United States",nan value,nan value,nan value,xf
+552,c88c45ae-6857-43cf-b75b-86b75a2b011e,Stephen,Young,Stephen Young,1964-06-08,2017.0,M,ENGLAND,"London, , England",nan value,nan value,nan value,xf
+553,cba7e769-8041-4afe-bbc1-3c59797c67ec,Benny,Gordon,Benny Gordon,1970-11-29,2009.0,M,nan value,"DuBois, Pennsylvania, ",BennyGordon24,nan value,nan value,xf
+554,5c136580-a233-4c00-9455-e0605549b183,Enrique,Baca,Enrique Baca,1991-08-13,2017.0,M,MEXICO,"Monterrey, , Mexico",nan value,nan value,nan value,xf
+555,8c962328-8f2c-4ac2-b11e-70cf822b4655,Devin,Jones,Devin Jones,1994-11-24,2017.0,M,UNITED STATES,"San Luis Obispo, California, United States",nan value,71.0,152.0,xf
+556,c9bf58a8-66b6-4d75-a441-c13130ded990,William,Byron,William Byron,1997-11-29,2016.0,M,UNITED STATES,"Charlotte, North Carolina, United States",WilliamByron,nan value,nan value,xf
+557,4599ae50-1fb9-4b92-91f9-ac0433533158,Ernie,Francis,Ernie Francis Jr,1998-01-23,2017.0,M,UNITED STATES,"Davie, Florida, United States",nan value,nan value,nan value,xf
+558,ac64cec0-12a6-4243-82c9-e7c78e5e879f,Matthew,Bell,Matthew Bell,1985-08-31,2012.0,M,UNITED STATES,"San Francisco, California, United States",nan value,nan value,nan value,xf
+559,d67e54e3-4bd0-4730-bb4d-35084d68bbcc,Mark,Thompson,Mark Thompson,1951-07-09,1992.0,M,UNITED STATES,"Cartersville, Georgia, United States",nan value,nan value,nan value,xf
+560,03e40417-8148-4f51-80f7-8635c1beb31a,P.J.,Jones,P.J. Jones,1969-04-23,1993.0,M,UNITED STATES,"Rolling Hills, California, United States",nan value,nan value,nan value,xf
+561,9e9d0ed9-ca92-4eb0-808f-b5da396e6984,Dakoda,Armstrong,Dakoda Armstrong,1991-07-16,2012.0,M,UNITED STATES,"New Castle, Indiana, United States",DakodaArmstrong,nan value,nan value,xf
+562,be1588ce-83ab-4aef-8016-9d3a5f2d10d0,Drew,Herring,Drew Herring,1987-05-05,2010.0,M,UNITED STATES,"Benson, North Carolina, United States",Drew_Herring,nan value,nan value,xf
+563,e6bc00de-f6f4-4076-889b-4de1b398e0ad,Ben,Kennedy,Ben Kennedy,1991-12-26,2014.0,M,UNITED STATES,"Daytona Beach, Florida, United States",BenKennedy11,nan value,nan value,xf
+564,ecd3e658-3c7b-48c9-9d95-dccc8b665ae2,Brian,Scott,Brian Scott,1988-01-12,2008.0,M,UNITED STATES,"Boise, Idaho, United States",bscottracing,nan value,nan value,xf
+565,4bf18106-e703-447f-8bcf-d8d5a81098f9,Anthony,Kumpen,Anthony Kumpen,1978-03-11,2015.0,M,BELGIUM,"Hasselt, , Belgium",anthonykumpen,nan value,nan value,xf
+566,4c5a91b8-1fa8-4464-b0a9-6bd8baf1dc87,Martin,Roy,Martin Roy,1974-02-01,2014.0,M,CANADA,"Napierville, , Canada",nan value,nan value,nan value,xf
+567,9e6c23b8-4c23-42a9-8f37-b58265335039,Blake,Koch,Blake Koch,1985-08-07,2011.0,M,UNITED STATES,"West Palm Beach, Florida, United States",BlakeKochRacing,nan value,nan value,xf
+568,6ccf9cd3-59e2-49a5-9b26-ea90d7f7c08b,Clint,King,Clint King,1995-08-26,2016.0,M,UNITED STATES,"Thomasville, North Carolina, United States",nan value,nan value,nan value,xf
+569,18d82f63-a0b8-4354-8083-b3e47f050ff1,Kasey,Kahne,Kasey Kahne,1980-04-10,2004.0,M,UNITED STATES,"Enumclaw, Washington, United States",kaseykahne,68.0,nan value,xf
+570,1a618e86-838d-4983-9b52-011a67cccf7a,Reed,Sorenson,Reed Sorenson,1986-02-05,2005.0,M,UNITED STATES,"Peachtree City, Georgia, United States",ReedSorenson36,70.0,nan value,xf
+571,077dd568-e418-4c07-8007-69466ef9e21e,Gregory,Vandersluis,Gregory Vandersluis,1988-07-28,2017.0,M,UNITED STATES,"Columbia Station, Ohio, United States",nan value,nan value,nan value,xf
+572,5908f38d-8240-4c6f-85c4-0b49e13501da,John,Graham,John Graham,1965-10-22,2004.0,M,CANADA,"Aurora, , Canada",nan value,nan value,nan value,xf
+573,0b2a3633-d6cc-4217-bbd6-44f6ec160ed9,Casey,Mears,Casey Mears,1978-03-12,2003.0,M,UNITED STATES,"Bakersfield, California, United States",CJMearsGang,68.0,nan value,xf
+574,46a69a3b-76d1-4c01-9aa3-6eab99e11558,Sam,Hornish,Sam Hornish Jr,1979-07-02,2007.0,M,UNITED STATES,"Defiance, Ohio, United States",SamHornish ,71.0,nan value,xf
+575,ef85c7eb-026d-4a9d-89fe-38c901fb7c2e,Cale,Conley,Cale Conley,1992-05-13,2015.0,M,UNITED STATES,"Vienna, West Virginia, United States",CaleConley,nan value,nan value,xf
+576,68b9a7ed-c810-4c0d-a330-7a99b90c2587,Corey,Lajoie,Corey Lajoie,1991-09-25,2017.0,M,UNITED STATES,"Concord, North Carolina, United States",nan value,nan value,nan value,xf
+577,c591a18b-9776-4932-843e-dc7013f8335c,Todd,Bodine,Todd Bodine,1964-02-27,1992.0,M,UNITED STATES,"Chemung, New York, United States",Team_Onion,67.0,nan value,xf
+578,bcf5b54b-bbbe-4653-aade-a7364e946056,Clint,Bowyer,Clint Bowyer,1979-05-30,2005.0,M,UNITED STATES,"Emporia, Kansas, United States",clintbowyer,72.0,nan value,xf
+579,23b7e1a2-3e08-45ff-9d61-708ccf0f34be,Matt,Waltz,Matt Waltz,1989-10-06,2015.0,M,UNITED STATES,"Newport News, Virginia, United States",MattWaltz02,nan value,nan value,xf
+580,97526fee-9903-4b36-a556-14af234fe98f,Bobby,Gerhart,Bobby Gerhart,1958-07-21,1983.0,M,UNITED STATES,"Lebanon, Pennsylvania, United States",GerhartRacing_5,nan value,nan value,xf
+581,0cdae85e-0b1d-44d7-9614-a49aff66aeb5,Ricky,Stenhouse,Ricky Stenhouse Jr,1987-10-02,2010.0,M,UNITED STATES,"Olive Branch, Mississippi, United States",StenhouseJr,nan value,nan value,xf
+582,01bfd851-485c-4ae1-be40-0c4ba39abe09,Claire,Decker,Claire Decker,1995-02-22,2016.0,F,UNITED STATES,"Eagle River, Wisconsin, United States",nan value,nan value,nan value,xf
+583,575d0090-7bba-4760-a9ac-be4f4c26e027,Alli,Owens,Alli Owens,1988-09-02,2016.0,F,UNITED STATES,"Daytona Beach, Florida, United States",nan value,nan value,nan value,xf
+584,013b2c21-c68e-4f9d-880f-10c921d181e7,Josh,Wise,Josh Wise,1983-02-07,2012.0,M,UNITED STATES,"Riverside, California, United States",Josh_Wise,nan value,nan value,xf
+585,113dcb7d-ac55-4f17-838b-9c7d313e1caf,Derek,White,Derek White,1970-12-09,2012.0,M,CANADA,"Kahnawake, , Canada",nan value,nan value,nan value,xf
+586,ee223f37-aae4-4dfe-9aaf-77817573b73f,Owen,Kelly,Owen Kelly,1977-03-12,2010.0,M,AUSTRALIA,"Tasmania, , Australia",nan value,nan value,nan value,xf
+587,141401ee-e280-4fc5-9001-a08b5cda3eff,Roger,Reuse,Roger Reuse,1966-08-09,2014.0,M,UNITED STATES,"Birmingham, Alabama, United States",nan value,nan value,nan value,xf
+588,e822a413-9ff4-4315-8834-68e03cfa19cc,John Wes,Townley,John Wes Townley,1989-12-31,2009.0,M,UNITED STATES,"Watkinsville, Georgia, United States",JWTownley,nan value,nan value,xf
+589,9d235b4d-c4c1-4d8f-98bf-1592f4c158ca,Kenny,Habul,Kenny Habul,1973-05-24,2012.0,M,AUSTRALIA,"Sydney, , Australia",KennyHabul,nan value,nan value,xf
+590,323cea27-56dd-4dcc-8d4e-e7a1c382f6da,Alex,Guenette,Alex Guenette,1996-04-25,2016.0,M,CANADA,"Montreal, , Canada",nan value,nan value,nan value,xf
+591,e59f054b-a9c1-4c1d-9db2-cb4f0db1dc93,Paige,Decker,Paige Decker,1993-03-20,2016.0,F,UNITED STATES,"Eagle River, Wisconsin, United States",Paige_Decker_03,nan value,nan value,xf
+592,aa8cc97f-c6cc-4f1c-9163-4d0f47807e92,Dexter,Stacey,Dexter Stacey,1992-11-09,2013.0,M,CANADA,"Quebec, , Canada",Dexter_Stacey,nan value,nan value,xf
+593,f4f421b7-6683-4c6f-af57-f1727ccdacd4,Alex,Kennedy,Alex Kennedy,1992-02-02,2015.0,M,UNITED STATES,"Aztec, New Mexico, United States",AlexKennedy_61,nan value,nan value,xf
+594,25884070-3ded-4fdc-9370-d09428ac95e4,David,Ragan,David Ragan,1985-12-24,2007.0,M,UNITED STATES,"Unadilla, Georgia, United States",DavidRagan,72.0,nan value,xf
+595,181246a4-dbbf-4a62-8536-5b7b9d5f7f14,Bobby,Labonte,Bobby Labonte,1964-05-08,1993.0,M,UNITED STATES,"Corpus Christi, Texas, United States",Bobby_Labonte,69.0,nan value,xf
+596,ebd4874f-6a6d-4e88-8f22-91c8ae400e3a,Eric,McClure,Eric McClure,1978-12-11,2004.0,M,UNITED STATES,"Chilhowie, Virginia, United States",ericmcclure,nan value,nan value,xf
+597,6b30bd5e-2b13-48b6-b9d7-59d93210c1cd,Michael,Lira,Michael Lira,1997-07-16,2016.0,M,UNITED STATES,"Port Orange, Florida, United States",nan value,nan value,nan value,xf
+598,2db0c428-bdbc-4404-abe5-e804488c36b8,Derrike,Cope,Derrike Cope,1958-11-03,1982.0,M,UNITED STATES,"Spanaway, Washington, United States",DCopeRacing,67.0,nan value,xf
+599,30180a89-d256-4ab3-aa14-cd5aaab61737,Cole,Whitt,Cole Whitt,1991-06-22,2011.0,M,UNITED STATES,"Alpine, California, United States",colewhitt,nan value,nan value,xf
+600,4f63e2cc-e20e-43a4-ad00-1f54b6f7461d,Austin,Theriault,Austin Theriault,1994-01-23,2015.0,M,UNITED STATES,"Fort Kent, Maine, United States",AustinTheriault,nan value,nan value,xf
+601,87c6516d-fd2d-450b-a867-d366dd667010,Tomy,Drissi,Tomy Drissi,1958-12-09,2010.0,M,UNITED STATES,"Hollywood, California, United States",TomyDrissi,nan value,nan value,xf
+602,5b580f91-0223-4c57-afb2-6df24d69d555,Chris,Fontaine,Chris Fontaine,1981-12-01,2002.0,M,nan value,"Lakeland, Florida, ",nan value,nan value,nan value,xf
+603,ca491934-5f54-4a4c-8a01-b2bc66f20689,Brandon,McReynolds,Brandon McReynolds,1991-05-21,2010.0,M,UNITED STATES,"Mooresville, North Carolina, United States",nan value,nan value,nan value,xf
+604,96fdd8d7-3776-42b8-baf2-6b4e2cf2d83d,Michael,McDowell,Michael McDowell,1984-12-21,2009.0,M,UNITED STATES,"Glendale, Arizona, United States",Mc_Driver,nan value,nan value,xf
+605,309f3d19-0217-40a7-9769-75f3750d6bec,Mike,Bliss,Mike Bliss,1965-04-05,1998.0,M,UNITED STATES,"Milwaukie, Oregon, United States",MikeBliss19,73.0,nan value,xf
+606,4bb14231-16a9-4536-b8dd-45dd7a8b7975,Tyler,Young,Tyler Young,1990-07-15,2014.0,M,UNITED STATES,"Midland, Texas, United States",TylerYoung02,nan value,nan value,xf
+607,3c731d6e-9acb-4ae9-9333-df5c404eb099,Travis,Kvapil,Travis Kvapil,1976-03-01,2005.0,M,UNITED STATES,"Janesville, Wisconsin, United States",traviskvapil,72.0,nan value,xf
+608,7feeee8c-a83f-43b8-8066-e2fa2a838faa,Alon,Day,Alon Day,1991-11-04,2015.0,M,ISRAEL,"Ashdod, , Israel",nan value,nan value,nan value,xf
+609,288a5b55-a922-465b-ad07-d0d41c6deab9,Nelson,Piquet,Nelson Piquet Jr,1985-07-25,2011.0,M,BRAZIL,"Brasilia, , Brazil",NelsonPiquet,nan value,nan value,xf
+610,39a7c465-d85a-411b-a091-d2da3506dbb8,Alex,Tagliani,Alex Tagliani,1972-10-18,2007.0,M,CANADA,"Montreal, , Canada",tagliani,68.0,nan value,xf
+611,688214a4-99fb-4e45-9a14-58cb0d6d4c2c,Mason,Mingus,Mason Mingus,1994-11-28,2014.0,M,UNITED STATES,"Brentwood, Tennessee, United States",nan value,nan value,nan value,xf
+612,94cec19f-94a7-49cd-a4fc-935bd8176083,Dylan,Kwasniewski,Dylan Kwasniewski,1995-05-31,2014.0,M,UNITED STATES,"Las Vegas, Nevada, United States",nan value,nan value,nan value,xf
+613,428f92fc-e3ed-4833-97a4-6c83af498144,Ruben,Pardo,Ruben Pardo,1979-06-18,2007.0,M,MEXICO,"Mexico City, , Mexico",nan value,nan value,nan value,xf
+614,6c1f6ebe-e082-48ca-bb05-7c26f87fa081,Matt,Wallace,Matt Wallace,1995-10-24,2015.0,M,UNITED STATES,"Concord, North Carolina, United States",nan value,nan value,nan value,xf
+615,cd36b226-fd8a-4ecc-ab04-eb9453a66444,Carlos,Contreras,Carlos Contreras,1970-06-08,2003.0,M,MEXICO,"Mexico City, , Mexico",nan value,nan value,nan value,xf
+616,e122ff07-d5bf-4b76-8d2e-c03cad187e6b,Kenny,Wallace,Kenny Wallace,1963-08-23,1990.0,M,UNITED STATES,"St. Louis, Missouri, United States",Kenny_Wallace,71.0,nan value,xf
+617,ee6b2d6c-caa9-496c-87d6-2d427bc168a8,Chad,Boat,Chad Boat,1992-04-30,2014.0,M,UNITED STATES,"Phoenix, Arizona, United States",nan value,nan value,nan value,xf
+618,ae560bad-295c-4e5b-89f5-01bd940ab299,Enrique,Contreras,Enrique Contreras III,1993-05-29,2015.0,M,MEXICO,"Mexico City, , Mexico",nan value,nan value,nan value,xf
+619,8a1906e1-d4d5-482c-ad78-d28d691d513d,Kevin,O'Connell,Kevin O'Connell,1967-04-29,2008.0,M,UNITED STATES,"Newport Beach, California, United States",nan value,nan value,nan value,xf
+620,467aa233-51a9-4e4f-a736-b2b663a6145e,Charles,Lewandoski,Charles Lewandoski,1985-05-18,2011.0,M,UNITED STATES,"Stafford Springs, Connecticut, United States",nan value,nan value,nan value,xf
+621,90166422-2cb5-494b-b89a-4aad948ca235,Zach,Bruenger,Zach Bruenger,1990-04-11,2015.0,M,nan value,", , ",nan value,nan value,nan value,xf
+622,5f066f08-d6ce-4734-92bb-5b35146c6c14,Michael,Self,Michael Self,1990-11-01,2015.0,M,UNITED STATES,"Park City, Utah, United States",nan value,nan value,nan value,xf
+623,623f4293-77e7-43b3-8d91-0a5ab9365c3d,Ben,Rhodes,Ben Rhodes,1997-02-21,2015.0,M,UNITED STATES,"Louisville, Kentucky, United States",nan value,nan value,nan value,xf
+624,fdb39618-2e26-448a-afb8-30b2bb2ad4e4,Cj,Faison,Cj Faison,1993-08-31,2015.0,M,UNITED STATES,"Seaford, Delaware, United States",nan value,nan value,nan value,xf
+625,04782918-e266-41ad-a65e-a68db91a7c6a,Jamie,Dick,Jamie Dick,1989-02-05,2011.0,M,UNITED STATES,"El Paso, Texas, United States",nan value,nan value,nan value,xf
+626,349a18a4-1642-46c1-998f-490aca4e61f2,Brad,Teague,Brad Teague,1947-12-09,1982.0,M,UNITED STATES,"Johnson City, Tennessee, United States",nan value,nan value,nan value,xf
+627,9824ed84-c894-4e8b-b674-a04b342e061a,Jimmy,Weller,Jimmy Weller III,1985-11-20,2014.0,M,UNITED STATES,"Hubbard, Ohio, United States",nan value,nan value,nan value,xf
+628,04687e5d-3ff9-479a-ae3e-6a4cee7b4d09,Matt,Kenseth,Matt Kenseth,1972-03-10,2000.0,M,UNITED STATES,"Cambridge, Wisconsin, United States",mattkenseth,69.0,nan value,xf
+629,85c44033-1928-4248-89ea-044f6563c906,Matt,Frahm,Matt Frahm,1990-03-16,2011.0,M,UNITED STATES,"North Salem, New Hampshire, United States",M_Frahmracer,nan value,nan value,xf
+630,25cfebb6-24e5-429c-a9db-c276bab0e228,Chris,Buescher,Chris Buescher,1992-10-29,2014.0,M,UNITED STATES,"Prosper, Texas, United States",nan value,nan value,nan value,xf
+631,6b7258e5-9799-4c0f-9ec9-fdc2d383f40c,Peyton,Sellers,Peyton Sellers,1983-10-20,2015.0,M,UNITED STATES,"Danville, Virginia, United States",nan value,nan value,nan value,xf
+632,9f699c99-4006-4a1e-a39a-8b9ba3436859,Ross,Kenseth,Ross Kenseth,1993-05-25,2015.0,M,UNITED STATES,"Appleton, Wisconsin, United States",nan value,nan value,nan value,xf
+633,d513c371-f43b-4a44-80f3-ea4af863c5d2,Kyle,Fowler,Kyle Fowler,1992-06-07,2012.0,M,UNITED STATES,"Smyrna, Georgia, United States",nan value,nan value,nan value,xf
+634,f95fc32e-f96c-4df7-aad9-4ee2a8eed9b8,Johanna,Long,Johanna Long,1992-05-26,2011.0,F,UNITED STATES,"Pensacola, Florida, United States",johannalong,nan value,nan value,xf
+635,f3da65fb-aa5a-46c3-b05e-ceebc2bfb302,Jacques,Villeneuve,Jacques Villeneuve,1971-04-09,2008.0,M,CANADA,"St Jean-sur-Richelieu, , Canada",27villeneuve,67.0,nan value,sc
+636,0cdae85e-0b1d-44d7-9614-a49aff66aeb5,Ricky,Stenhouse,Ricky Stenhouse Jr,1987-10-02,2010.0,M,UNITED STATES,"Olive Branch, Mississippi, United States",StenhouseJr,nan value,nan value,sc
+637,bfcb8d32-fab0-4bfa-be14-cf9466e1d886,Ty,Dillon,Ty Dillon,1992-02-27,2012.0,M,UNITED STATES,"Welcome, North Carolina, United States",TyDillon,nan value,nan value,sc
+638,5fd3e3fb-322f-4157-ae41-9317fba1997d,Chase,Elliott,Chase Elliott,1995-11-28,2014.0,M,UNITED STATES,"Dawsonville, Georgia, United States",chaseelliott,nan value,nan value,sc
+639,e128a081-a2e8-4809-8038-8c936049bf7c,Aric,Almirola,Aric Almirola,1984-03-14,2011.0,M,UNITED STATES,"Tampa, Florida, United States",aric_almirola,72.0,nan value,sc
+640,8853e676-384e-4d08-8808-970fd111f36a,Austin,Dillon,Austin Dillon,1990-04-27,2010.0,M,UNITED STATES,"Welcome, North Carolina, United States",austindillon3,nan value,nan value,sc
+641,85c06960-3610-4eff-9ef2-18641b84c952,Kyle,Busch,Kyle Busch,1985-05-02,2004.0,M,UNITED STATES,"Las Vegas, Nevada, United States",kylebusch,73.0,nan value,sc
+642,e13afeb8-b199-4bf5-8404-5edfdc617565,Justin,Allgaier,Justin Allgaier,1986-06-06,2008.0,M,UNITED STATES,"Riverton, Illinois, United States",J_Allgaier,nan value,nan value,sc
+643,5ae1a122-28a3-461b-82e0-955c0d1132fa,BJ,McLeod,BJ McLeod,1983-11-17,2016.0,M,UNITED STATES,"Wauchula, Florida, United States",bjmcleod78,nan value,nan value,sc
+644,fc04af5e-bd27-4e87-850c-a72e22dcb4a6,AJ,Allmendinger,AJ Allmendinger,1981-12-16,2007.0,M,UNITED STATES,"Los Gatos, California, United States",AJDinger,66.0,nan value,sc
+645,3ebef96f-43b4-422a-9d0c-db0127b25384,Alex,Bowman,Alex Bowman,1993-04-25,2013.0,M,UNITED STATES,"Tucson, Arizona, United States",AlexBRacing,nan value,nan value,sc
+646,25ca1ab3-b013-48cb-b4a4-c10fb45ba397,Chase,Briscoe,Chase Briscoe,1994-12-15,2017.0,M,UNITED STATES,"Mitchell, Indiana, United States",nan value,nan value,nan value,sc
+647,9d18716c-fd73-48d4-b3da-44228c767b84,Kevin,Harvick,Kevin Harvick,1975-12-08,2001.0,M,UNITED STATES,"Bakersfield, California, United States",KevinHarvick,70.0,175.0,sc
+648,fa1dba10-512b-4cfd-bcb7-c8e4963a209d,Cody,Ware,Cody Ware,1995-11-07,2015.0,M,UNITED STATES,"Greensboro, North Carolina, United States",CodyShaneWare,nan value,nan value,sc
+649,25884070-3ded-4fdc-9370-d09428ac95e4,David,Ragan,David Ragan,1985-12-24,2007.0,M,UNITED STATES,"Unadilla, Georgia, United States",DavidRagan,72.0,nan value,sc
+650,50b6d593-cbc3-4203-ab8a-1ed8dcfd393d,Joey,Hand,Joey Hand,1979-02-10,2021.0,M,UNITED STATES,"Sacramento, California, United States",nan value,nan value,nan value,sc
+651,abab879c-93b3-4476-95a0-47f60df1a0e4,Noah,Gragson,Noah Gragson,1998-07-15,2017.0,M,UNITED STATES,"Las Vegas, Nevada, United States",nan value,nan value,nan value,sc
+652,6db2400f-0fd5-49af-ae80-64f26385b9f2,Greg,Biffle,Greg Biffle,1969-12-23,2003.0,M,UNITED STATES,"Vancouver, Washington, United States",gbiffle,69.0,nan value,sc
+653,25cfebb6-24e5-429c-a9db-c276bab0e228,Chris,Buescher,Chris Buescher,1992-10-29,2014.0,M,UNITED STATES,"Prosper, Texas, United States",Chris_Buescher,nan value,nan value,sc
+654,cb9d6f49-0044-4305-be9a-22d428e52c95,Denny,Hamlin,Denny Hamlin,1980-11-18,2006.0,M,UNITED STATES,"Chesterfield, Virginia, United States",DennyHamlin,72.0,nan value,sc
+655,67948099-4196-4e1b-ae9e-b437aa99000a,Ryan,Blaney,Ryan Blaney,1993-12-31,2013.0,M,UNITED STATES,"High Point, North Carolina, United States",Blaney,nan value,nan value,sc
+656,742af181-0cd8-4c7d-b8d4-bf1698cfa1e1,Andy,Lally,Andy Lally,1975-02-11,2008.0,M,UNITED STATES,"Northport, New York, United States",AndyLally,nan value,nan value,sc
+657,a27abfd8-d687-4d6c-832d-10fae051ccb5,Todd,Gilliland,Todd Gilliland,2000-05-15,2018.0,M,UNITED STATES,"Sherrills Ford, North Carolina, United States",nan value,nan value,nan value,sc
+658,51b06822-f389-4256-bff2-ae5f5d8f7525,Kaz,Grala,Kaz Grala,1998-12-29,2017.0,M,UNITED STATES,"Westborough, Massachusetts, United States",nan value,nan value,nan value,sc
+659,c9bf58a8-66b6-4d75-a441-c13130ded990,William,Byron,William Byron,1997-11-29,2016.0,M,UNITED STATES,"Charlotte, North Carolina, United States",WilliamByron,nan value,nan value,sc
+660,b2f2b44e-1b64-4cee-87f5-2855937f8ab2,Boris,Said,Boris Said,1962-09-18,1998.0,M,UNITED STATES,"Carlsbad, California, United States",nan value,72.0,nan value,sc
+661,68b9a7ed-c810-4c0d-a330-7a99b90c2587,Corey,Lajoie,Corey Lajoie,1991-09-25,2017.0,M,UNITED STATES,"Concord, North Carolina, United States",nan value,nan value,nan value,sc
+662,b030a8df-e7de-44a4-9f59-34bb9fd227d0,Tyler,Reddick,Tyler Reddick,1996-01-11,2014.0,M,UNITED STATES,"Corning, California, United States",TylerReddick,nan value,nan value,sc
+663,16497cd0-5add-407a-b9a8-eec7d62e413b,Christopher,Bell,Christopher Bell,1994-12-16,2016.0,M,UNITED STATES,"Norman, Oklahoma, United States",CBellRacing,nan value,nan value,sc
+664,6e3ed92a-ee25-4dea-b116-d493ebccba07,Justin,Haley,Justin Haley,1999-04-28,2017.0,M,UNITED STATES,"Winamac, Indiana, United States",nan value,nan value,nan value,sc
+665,9d3664e8-1908-4b50-9d8a-f6be365d0cb1,Josh,Williams,Josh Williams,1992-08-03,2022.0,M,UNITED STATES,"Port Charlotte, Florida, United States",nan value,nan value,nan value,sc
+666,04fd1868-6005-414e-b2a4-7f27f5a0ca3e,Loris,Hezemans,Loris Hezemans,1997-05-26,2022.0,M,NETHERLANDS,"Eindhoven, , Netherlands",nan value,nan value,nan value,sc
+667,4d95ef3a-46cc-43c2-b340-c92cea2ed7f8,Martin,Truex,Martin Truex Jr,1980-06-29,2004.0,M,UNITED STATES,"Mayetta, New Jersey, United States",MartinTruex_Jr,71.0,180.0,sc
+668,198c8de5-9175-4c42-acad-a1d8de6df398,Harrison,Burton,Harrison Burton,2000-10-09,2019.0,M,UNITED STATES,"Huntersville, North Carolina, United States",nan value,nan value,nan value,sc
+669,3ee8cca6-048e-4e36-9216-ed27d294611b,Cole,Custer,Cole Custer,1998-01-23,2016.0,M,UNITED STATES,"Ladera Ranch, California, United States",colecuster00,nan value,nan value,sc
+670,0ce4113d-34c8-4272-b658-3b929238dbd3,Brad,Keselowski,Brad Keselowski,1984-02-12,2010.0,M,UNITED STATES,"Rochester Hills, Michigan, United States",keselowski,70.0,nan value,sc
+671,f07507f1-0a84-4b90-929d-7389dc5baab4,Landon,Cassill,Landon Cassill,1989-07-07,2008.0,M,UNITED STATES,"Cedar Rapids, Iowa, United States",landoncassill,67.0,nan value,sc
+672,894b273e-ce7d-446c-9ab0-d9a474ce9d7f,Joey,Logano,Joey Logano,1990-05-24,2009.0,M,UNITED STATES,"Middletown, Connecticut, United States",joeylogano,72.0,140.0,sc
+673,d259900a-e2e7-4612-b201-178bb80a862c,Josh,Bilicki,Josh Bilicki,1995-06-03,2018.0,M,UNITED STATES,"Menomonee Falls, Wisconsin, United States",nan value,nan value,nan value,sc
+674,a9988edd-7707-4a75-9ee5-d3a8cae0c8aa,Timmy,Hill,Timmy Hill,1993-02-25,2011.0,M,UNITED STATES,"Port Tobacco, Maryland, United States",TimmyHillRacer,nan value,nan value,sc
+675,a756eefd-801d-4214-ab1b-0b595c21c37d,Kyle,Larson,Kyle Larson,1992-07-31,2013.0,M,UNITED STATES,"Elk Grove, California, United States",KyleLarsonRacin,nan value,nan value,sc
+676,e595780e-baa7-4988-9a19-311fef7414d5,Erik,Jones,Erik Jones,1996-05-30,2015.0,M,UNITED STATES,"Byron, Michigan, United States",erik_jones,nan value,nan value,sc
+677,fb6c45e9-990e-46e3-88df-174449c13334,Ross,Chastain,Ross Chastain,1992-12-04,2012.0,M,UNITED STATES,"Alva, Florida, United States",RossChastain,nan value,nan value,sc
+678,8e76a45f-596e-4b56-9eb6-0623e45bf89c,Kurt,Busch,Kurt Busch,1978-08-04,2000.0,M,UNITED STATES,"Las Vegas, Nevada, United States",KurtBusch,71.0,nan value,sc
+679,32251b56-7387-4ade-8482-0917553218f4,JJ,Yeley,JJ Yeley,1976-10-05,2006.0,M,UNITED STATES,"Phoenix, Arizona, United States",jjyeley1,68.0,nan value,sc
+680,ebd0a08d-5308-442e-a2ae-2e40aafb3100,Daniel,Suárez,Daniel Suárez,1992-01-07,2015.0,M,MEXICO,"Monterrey, , Mexico",Daniel_SuarezG,nan value,nan value,sc
+681,460d88fe-cf23-495e-8f04-98729874023c,Daniel,Hemric,Daniel Hemric,1991-01-27,2015.0,M,UNITED STATES,"Kannapolis, North Carolina, United States",DanielHemric,nan value,nan value,sc
+682,26f629b5-8682-4db6-a91f-bf0f732f505a,Austin,Cindric,Austin Cindric,1998-09-02,2017.0,M,UNITED STATES,"Mooresville, North Carolina, United States",AustinCindric,nan value,nan value,sc
+683,e28a64ca-c622-4b28-b0d9-28bc9390f9e4,Ryan,Preece,Ryan Preece,1990-10-25,2016.0,M,UNITED STATES,"Berlin, Connecticut, United States",RyanPreece_,nan value,nan value,sc
+684,96fdd8d7-3776-42b8-baf2-6b4e2cf2d83d,Michael,McDowell,Michael McDowell,1984-12-21,2009.0,M,UNITED STATES,"Glendale, Arizona, United States",Mc_Driver,nan value,nan value,sc
+685,939e647d-756f-41d7-ad65-609344f64bd5,Bubba,Wallace,Bubba Wallace,1993-10-08,2013.0,M,UNITED STATES,"Mobile, Alabama, United States",BubbaWallace,nan value,nan value,sc
+686,35a6fe75-7b32-4b7b-af0c-e68cb0891f7a,Garrett,Smithley,Garrett Smithley,1992-04-27,2016.0,M,UNITED STATES,"Ligonier, Pennsylvania, United States",GarrettSmithley,nan value,nan value,sc
+687,788d2f69-6260-40c0-ad66-631a9cc0c24d,Joey,Gase,Joey Gase,1993-02-08,2012.0,M,UNITED STATES,"Cedar Rapids, Iowa, United States",JoeyGaseRacing,nan value,nan value,sc
+688,d18adf1a-679d-4ea5-a251-253ac7d03b75,Ryan,Ellis,Ryan Ellis,1989-11-29,2015.0,M,UNITED STATES,"Ashburn, Virginia, United States",ryanellisracing,nan value,nan value,sc
+689,67c795a5-0d15-4b13-b340-30b1c8e2eb71,Scott,Heckert,Scott Heckert,1993-11-21,2021.0,M,UNITED STATES,"Ridgefield, Connecticut, United States",nan value,nan value,nan value,sc
+690,434eb5c2-23e5-44c3-ac41-9695c900d748,Anthony,Alfredo,Anthony Alfredo,1999-03-31,2019.0,M,UNITED STATES,"Ridgefield, Connecticut, United States",nan value,nan value,nan value,sc
+691,06c9c0f9-392a-4f0e-aae7-39bb417af02f,Matt,DiBenedetto,Matt DiBenedetto,1991-07-27,2015.0,M,UNITED STATES,"Grass Valley, California, United States",mattdracing,nan value,nan value,sc
+692,c8fe8af7-8850-43e9-8544-8df52aa7d66b,Stewart,Friesen,Stewart Friesen,1983-07-25,2017.0,M,CANADA,"Niagara-on-the-Lake, Ontario, Canada",nan value,nan value,nan value,sc
+693,7d00968b-1608-4c66-8115-619ffae4e5ba,Shane,Golobic,Shane Golobic,1991-08-15,2021.0,M,UNITED STATES,"Fremont, California, United States",nan value,nan value,nan value,sc
+694,0aed5a8b-390f-400a-be2d-b0f6fc98776f,Kyle,Tilley,Kyle Tilley,1988-02-16,2021.0,M,ENGLAND,"Bath, , England",nan value,nan value,nan value,sc
+695,41358418-6638-433d-a26d-0e12f546d1e6,Quin,Houff,Quin Houff,1997-09-15,2020.0,M,UNITED STATES,"Weyers Cave, Virginia, United States",nan value,nan value,nan value,sc
+696,178b65e8-f0ae-4c37-942d-e227bdbc1452,Ryan,Eversley,Ryan Eversley,1983-12-22,2021.0,M,UNITED STATES,"Winder, Georgia, United States",nan value,nan value,nan value,sc
+697,094b41f2-f109-4355-95cb-14ac2165c38e,Mike,Marlar,Mike Marlar,1978-01-30,2021.0,M,UNITED STATES,"Winfield, Tennessee, United States",nan value,nan value,nan value,sc
+698,f8d8ff36-bfcf-4d98-8eb2-353f1e8d3c34,Jamie,McMurray,Jamie McMurray,1976-06-03,2003.0,M,UNITED STATES,"Joplin, Missouri, United States",JamieMcMurray,68.0,nan value,sc
+699,623f4293-77e7-43b3-8d91-0a5ab9365c3d,Ben,Rhodes,Ben Rhodes,1997-02-21,2016.0,M,UNITED STATES,"Louisville, Kentucky, United States",BenRhodes,nan value,nan value,sc
+700,e913a9e0-1ab4-494a-be63-7135d1f403c2,Chad,Finchum,Chad Finchum,1994-09-22,2018.0,M,UNITED STATES,"Knoxville, Tennessee, United States",nan value,nan value,nan value,sc
+701,e4b9e60e-d4c2-4b42-93c3-0fa1f2695160,Bayley,Currey,Bayley Currey,1996-10-29,2019.0,M,UNITED STATES,"Driftwood, Texas, United States",nan value,nan value,nan value,sc
+702,7f33e2c1-4634-4894-98ad-c70c7ce914ac,James,Davison,James Davison,1986-08-28,2020.0,M,AUSTRALIA,"Melbourne, , Australia",nan value,nan value,nan value,sc
+703,2e6f5ea3-ea6e-48d2-85ec-2e89c2fa02b4,Ryan,Newman,Ryan Newman,1977-12-08,2002.0,M,UNITED STATES,"South Bend, Indiana, United States",RyanJNewman,71.0,nan value,sc
+704,2db0c428-bdbc-4404-abe5-e804488c36b8,Derrike,Cope,Derrike Cope,1958-11-03,1982.0,M,UNITED STATES,"Spanaway, Washington, United States",DCopeRacing,67.0,nan value,sc
+705,5b2a4c69-46ea-4b41-96ec-ec27d47ae89c,Matt,Mills,Matt Mills,1996-11-14,2021.0,M,UNITED STATES,"New Philadelphia, Ohio, United States",nan value,nan value,nan value,sc
+706,0fd72e84-dbcb-4247-8868-6e0f39ecda91,Rc,Enerson,Rc Enerson,1997-03-06,2021.0,M,nan value,", , ",nan value,nan value,nan value,sc
+707,048726db-d4ca-49f7-8e28-e8993958236f,Josh,Berry,Josh Berry,1990-10-22,2021.0,M,UNITED STATES,"Hendersonville, Tennessee, United States",JoshBerry,nan value,nan value,sc
+708,e08cfaf7-f99a-47b8-84c6-4c943e95ead6,David,Starr,David Starr,1967-10-11,2011.0,M,UNITED STATES,"Houston, Texas, United States",DavidStarr44,69.0,nan value,sc
+709,5f8f4143-1c8d-4152-9e82-12b958a2aa06,Chris,Windom,Chris Windom,1990-12-24,2021.0,M,UNITED STATES,"Canton, Illinois, United States",nan value,nan value,nan value,sc
+710,a602316b-3712-4de2-9098-7fcd887e7bd2,Parker,Kligerman,Parker Kligerman,1990-08-08,2011.0,M,UNITED STATES,"Westport, Connecticut, United States",pkligerman,nan value,nan value,sc
+711,147b907c-98c4-4890-9bb7-0db3b210b785,Stanton,Barrett,Stanton Barrett,1972-12-01,1999.0,M,UNITED STATES,"Bishop, California, United States",stantonbarrett,73.0,nan value,sc
+712,bcf5b54b-bbbe-4653-aade-a7364e946056,Clint,Bowyer,Clint Bowyer,1979-05-30,2005.0,M,UNITED STATES,"Emporia, Kansas, United States",clintbowyer,72.0,nan value,sc
+713,057da6c6-ad81-4c65-b6b1-64b6da9e2ee7,Jimmie,Johnson,Jimmie Johnson,1975-09-17,2002.0,M,UNITED STATES,"El Cajon, California, United States",JimmieJohnson,71.0,165.0,sc
+714,1a618e86-838d-4983-9b52-011a67cccf7a,Reed,Sorenson,Reed Sorenson,1986-02-05,2005.0,M,UNITED STATES,"Peachtree City, Georgia, United States",ReedSorenson36,70.0,nan value,sc
+715,97a4a46c-baa3-4bff-8068-2fc347e37d9a,Brennan,Poole,Brennan Poole,1991-04-11,2016.0,M,UNITED STATES,"The Woodlands, Texas, United States",brennanpoole,nan value,nan value,sc
+716,6e5a779b-11fa-46bf-bfc9-51efedfe66c4,Gray,Gaulding,Gray Gaulding,1998-02-10,2014.0,M,UNITED STATES,"Colonial Heights, Virginia, United States",graygaulding,nan value,nan value,sc
+717,6334f9f0-8b97-4020-8204-2ba30e7dd4ba,John H.,Nemechek,John H. Nemechek,1997-06-11,2015.0,M,UNITED STATES,"Mooresville, North Carolina, United States",JHNemechek,nan value,nan value,sc
+718,66d6cb11-de3a-4816-9c58-003a76634560,Brendan,Gaughan,Brendan Gaughan,1975-07-10,2009.0,M,UNITED STATES,"Las Vegas, Nevada, United States",brendan62,69.0,nan value,sc
+719,04687e5d-3ff9-479a-ae3e-6a4cee7b4d09,Matt,Kenseth,Matt Kenseth,1972-03-10,2000.0,M,UNITED STATES,"Cambridge, Wisconsin, United States",mattkenseth,69.0,nan value,sc
+720,cb239c48-8ccb-4043-a221-531b0da78765,Paul,Menard,Paul Menard,1980-08-21,2007.0,M,UNITED STATES,"Eau Claire, Wisconsin, United States",nan value,70.0,nan value,sc
+721,50d079fb-f661-40d4-812e-207beef1a7e3,Andy,Seuss,Andy Seuss,1987-03-15,2006.0,M,UNITED STATES,"Hempstead, New Hampshire, United States",AndySeuss,nan value,nan value,sc
+722,be1588ce-83ab-4aef-8016-9d3a5f2d10d0,Drew,Herring,Drew Herring,1987-05-05,2019.0,M,UNITED STATES,"Benson, North Carolina, United States",Drew_Herring,nan value,nan value,sc
+723,3560705d-b150-4bd3-8275-6093f01524bc,Matt,Tifft,Matt Tifft,1996-06-26,2016.0,M,UNITED STATES,"Hinckley, Ohio, United States",matt_tifft,nan value,nan value,sc
+724,cb54b9b5-bb7b-400d-9838-ef85747bb2d1,Ryan,Truex,Ryan Truex,1992-03-18,2011.0,M,UNITED STATES,"Mayetta, New Jersey, United States",ryan_truex,nan value,nan value,sc
+725,0b2a3633-d6cc-4217-bbd6-44f6ec160ed9,Casey,Mears,Casey Mears,1978-03-12,2003.0,M,UNITED STATES,"Bakersfield, California, United States",CJMearsGang,68.0,nan value,sc
+726,c7beb5c5-3d88-4dec-881f-793e68ee2d19,Jeb,Burton,Jeb Burton,1992-08-06,2013.0,M,UNITED STATES,"Halifax, Virginia, United States",JebBurtonRacing,nan value,nan value,sc
+727,46f77b78-961b-48cc-8681-b971511d2d5e,D.J.,Kennington,D.J. Kennington,1977-07-15,2010.0,M,CANADA,"St. Thomas, , Canada",nan value,70.0,nan value,sc
+728,614d3671-2b12-42d6-915e-2521b859e370,Kyle,Weatherman,Kyle Weatherman,1997-08-28,2017.0,M,UNITED STATES,"Wentzville, Missouri, United States",KyleWeatherman,nan value,nan value,sc
+729,2e33a0c7-05f0-4887-bcbd-b64606114676,Jeffrey,Earnhardt,Jeffrey Earnhardt,1989-06-22,2013.0,M,UNITED STATES,"Mooresville, North Carolina, United States",JEarnhardt1,nan value,nan value,sc
+730,b5610b89-dded-41b1-bb85-bac0ccf63015,Matt,Crafton,Matt Crafton,1976-06-11,2015.0,M,UNITED STATES,"Tulare, California, United States",Matt_Crafton,71.0,160.0,sc
+731,4f63e2cc-e20e-43a4-ad00-1f54b6f7461d,Austin,Theriault,Austin Theriault,1994-01-23,2015.0,M,UNITED STATES,"Fort Kent, Maine, United States",AustinTheriault,nan value,nan value,sc
+732,1fb0e2af-80f6-4c6b-bf02-c2c96a53c1ff,Joe,Nemechek,Joe Nemechek,1963-09-26,1994.0,M,UNITED STATES,"Lakeland, Florida, United States",FrontRowJoe87,69.0,nan value,sc
+733,81228be2-3223-4e34-80d3-e68f616e8fc6,Ryan,Sieg,Ryan Sieg,1987-06-20,2014.0,M,UNITED STATES,"Tucker, Georgia, United States",RyanSiegRacing,nan value,nan value,sc
+734,ce805205-7fa6-46b7-980a-d3017d870be7,Spencer,Boyd,Spencer Boyd,1995-06-26,2018.0,M,UNITED STATES,"St. Louis, Missouri, United States",nan value,nan value,nan value,sc
+735,986c20d7-178a-4d77-bb46-dde8d453dda5,Blake,Jones,Blake Jones,1997-01-12,2018.0,M,UNITED STATES,"Sevierville, Tennessee, United States",nan value,nan value,nan value,sc
+736,24a499dd-32de-476b-a77c-0adeeaf75e68,Tanner,Berryhill,Tanner Berryhill,1993-11-29,2014.0,M,UNITED STATES,"Bixby, Oklahoma, United States",tannerberryhill,nan value,nan value,sc
+737,18d82f63-a0b8-4354-8083-b3e47f050ff1,Kasey,Kahne,Kasey Kahne,1980-04-10,2004.0,M,UNITED STATES,"Enumclaw, Washington, United States",kaseykahne,68.0,nan value,sc
+738,01ff30a4-ad3b-4f5c-b3e7-7e41e1ff3278,Harrison,Rhodes,Harrison Rhodes,1993-07-15,2015.0,M,UNITED STATES,"High Point, North Carolina, United States",HarrisonRhodes,nan value,nan value,sc
+739,8d1f56fe-2dca-42e1-a9ea-e78399ee512e,Justin,Marks,Justin Marks,1981-03-25,2008.0,M,UNITED STATES,"Los Altos Hills, California, United States",JMarksDE,nan value,nan value,sc
+740,25c863f1-d98b-414e-857d-b0d3bc981f2a,Regan,Smith,Regan Smith,1983-09-23,2008.0,M,UNITED STATES,"Cato, New York, United States",ReganSmith,69.0,nan value,sc
+741,747de0f4-1dad-40f3-9a32-812c619d287b,Ray,Black,Ray Black Jr,1991-05-17,2015.0,M,UNITED STATES,"Palm Coast, Florida, United States",RayBlackJr,70.0,135.0,sc
+742,262c7b0f-fab8-4d5e-854c-7d54d039b994,Danica,Patrick,Danica Patrick,1982-03-25,2013.0,F,UNITED STATES,"Roscoe, Illinois, United States",DanicaPatrick,62.0,nan value,sc
+743,c5d101d1-6e77-4e46-a02c-3cd307578f89,Spencer,Gallagher,Spencer Gallagher,1989-11-20,2015.0,M,UNITED STATES,"Las Vegas, Nevada, United States",23speedracer,nan value,nan value,sc
+744,dde7052f-25f0-4e9e-9779-6bc2943bac99,Trevor,Bayne,Trevor Bayne,1991-02-19,2010.0,M,UNITED STATES,"Knoxville, Tennessee, United States",TBayne6,71.0,175.0,sc
+745,3ec3a264-978e-4d79-9f2a-3e2c7d38b8a0,Jesse,Little,Jesse Little,1997-04-15,2018.0,M,UNITED STATES,"Sherrills Ford, North Carolina, United States",jesselittle97,nan value,nan value,sc
+746,7feeee8c-a83f-43b8-8066-e2fa2a838faa,Alon,Day,Alon Day,1991-11-04,2015.0,M,ISRAEL,"Ashdod, , Israel",nan value,nan value,nan value,sc
+747,894b89bd-4973-46b2-8077-003ba0d860df,Chris,Cook,Chris Cook,1971-12-23,2005.0,M,UNITED STATES,"Phoenix, Arizona, United States",nan value,nan value,nan value,sc
+748,a0d5c2ae-f71b-49c7-a89d-aaa431109680,Hermie,Sadler,Hermie Sadler,1969-04-24,1996.0,M,UNITED STATES,"Emporia, Virginia, United States",HermieSadler,68.0,nan value,sc
+749,81494312-bd6e-40db-a1ad-ae0eda566067,David,Gilliland,David Gilliland,1976-04-01,2006.0,M,UNITED STATES,"Riverside, California, United States",DavidGilliland,69.0,nan value,sc
+750,d67e54e3-4bd0-4730-bb4d-35084d68bbcc,Mark,Thompson,Mark Thompson,1951-07-09,1992.0,M,UNITED STATES,"Cartersville, Georgia, United States",nan value,nan value,nan value,sc
+751,87c6516d-fd2d-450b-a867-d366dd667010,Tomy,Drissi,Tomy Drissi,1958-12-09,2012.0,M,UNITED STATES,"Hollywood, California, United States",TomyDrissi,nan value,nan value,sc
+752,2665684b-e8ec-490f-b0ca-5c76a546b82b,Carl,Long,Carl Long,1967-09-20,2000.0,M,UNITED STATES,"Roxboro, North Carolina, United States",nan value,70.0,nan value,sc
+753,30180a89-d256-4ab3-aa14-cd5aaab61737,Cole,Whitt,Cole Whitt,1991-06-22,2011.0,M,UNITED STATES,"Alpine, California, United States",colewhitt,nan value,nan value,sc
+754,4432ecf0-1514-4535-ae26-10787fedfb9c,Timothy,Peters,Timothy Peters,1980-08-29,2018.0,M,UNITED STATES,"Providence, North Carolina, United States",TimothyPeters17,nan value,nan value,sc
+755,fc60204c-116b-40d8-a59e-a565e54e3fda,Dale,Earnhardt,Dale Earnhardt Jr,1974-10-10,1998.0,M,UNITED STATES,"Kannapolis, North Carolina, United States",DaleJr,72.0,165.0,sc
+756,3c19ebc2-e3e9-4ec1-abb1-90d93293312f,Stephen,Leicht,Stephen Leicht,1987-01-09,2012.0,M,UNITED STATES,"Asheville, North Carolina, United States",StephenLeicht,nan value,nan value,sc
+757,3501c254-26a7-4ab8-830c-2b758ec51242,Tommy,Regan,Tommy Regan,1977-09-16,2017.0,M,UNITED STATES,"Tracy, California, United States",nan value,nan value,nan value,sc
+758,c11cad13-bcf3-47ea-bb7f-be2b4d8d8e18,Brett,Moffitt,Brett Moffitt,1992-08-07,2015.0,M,UNITED STATES,"Grimes, Iowa, United States",Brett_Moffitt,nan value,nan value,sc
+759,be1d865e-b048-4efc-a81d-b8acb199d15f,Gary,Klutt,Gary Klutt,1992-08-14,2017.0,M,CANADA,"Halton Hills, , Canada",nan value,nan value,nan value,sc
+760,35b937bf-43b3-4846-8352-6e3b9c245b27,Billy,Johnson,Billy Johnson,1986-10-10,2017.0,M,UNITED STATES,"Torrance, California, United States",nan value,nan value,nan value,sc
+761,3c1c41c0-efc1-4b3b-b9b4-918ae1f01951,Elliott,Sadler,Elliott Sadler,1975-04-30,1998.0,M,UNITED STATES,"Emporia, Virginia, United States",Elliott_Sadler,74.0,195.0,sc
+762,5b949112-c4bd-4799-bf5f-05ba8c99e55f,Michael,Waltrip,Michael Waltrip,1963-04-30,1985.0,M,UNITED STATES,"Owensboro, Kentucky, United States",mw55,77.0,nan value,sc
+763,8a1906e1-d4d5-482c-ad78-d28d691d513d,Kevin,O'Connell,Kevin O'Connell,1967-04-29,2017.0,M,UNITED STATES,"Newport Beach, California, United States",nan value,nan value,nan value,sc
+764,53ee4efd-5ce3-4b60-ae2b-6b685a79caae,Robert,Richardson,Robert Richardson,1982-04-04,2009.0,M,UNITED STATES,"McKinney, Texas, United States",nan value,nan value,nan value,sc
+765,c6c4fe9b-137d-4787-885b-e76094cf2d07,Tony,Stewart,Tony Stewart,1971-05-20,1999.0,M,UNITED STATES,"Columbus, Indiana, United States",TonyStewart,69.0,nan value,sc
+766,f4f421b7-6683-4c6f-af57-f1727ccdacd4,Alex,Kennedy,Alex Kennedy,1992-02-02,2015.0,M,UNITED STATES,"Aztec, New Mexico, United States",AlexKennedy_61,nan value,nan value,sc
+767,0853e97b-8d9b-420a-9e37-8b81e064c6cf,Carl,Edwards,Carl Edwards,1979-08-15,2003.0,M,UNITED STATES,"Columbia, Missouri, United States",nan value,73.0,185.0,sc
+768,013b2c21-c68e-4f9d-880f-10c921d181e7,Josh,Wise,Josh Wise,1983-02-07,2012.0,M,UNITED STATES,"Riverside, California, United States",Josh_Wise,nan value,nan value,sc
+769,b1bf7a78-b58c-4a91-b769-b8fd5a687f42,Brian,Vickers,Brian Vickers,1983-10-24,2004.0,M,UNITED STATES,"Thomasville, North Carolina, United States",BrianLVickers,71.0,160.0,sc
+770,181246a4-dbbf-4a62-8536-5b7b9d5f7f14,Bobby,Labonte,Bobby Labonte,1964-05-08,1993.0,M,UNITED STATES,"Corpus Christi, Texas, United States",Bobby_Labonte,69.0,nan value,sc
+771,86c91c31-7a92-4ff2-bd6c-df5f6ccabac0,Eddie,MacDonald,Eddie MacDonald,1980-07-07,2014.0,M,UNITED STATES,"Rowley, Massachusetts, United States",EddieMac71,nan value,nan value,sc
+772,b6c23593-d863-43ad-a1df-cc2d020cd579,Jeff,Gordon,Jeff Gordon,1971-08-04,1992.0,M,UNITED STATES,"Vallejo, California, United States",JeffGordonWeb,67.0,150.0,sc
+773,3a31674e-364f-44d6-9ae3-8a94bb36b037,Patrick,Carpentier,Patrick Carpentier,1971-08-13,2008.0,M,CANADA,"Joliette, QC, , Canada",nan value,nan value,nan value,sc
+774,62369fd2-886e-41b1-bd56-8452b55216f1,Dylan,Lupton,Dylan Lupton,1993-12-07,2016.0,M,UNITED STATES,"Sacramento, California, United States",LuptonDylan,nan value,nan value,sc
+775,ecd3e658-3c7b-48c9-9d95-dccc8b665ae2,Brian,Scott,Brian Scott,1988-01-12,2008.0,M,UNITED STATES,"Boise, Idaho, United States",bscottracing,nan value,nan value,sc
+776,b727979c-034a-41ca-9136-921914c1896f,Michael,Annett,Michael Annett,1986-06-23,2009.0,M,UNITED STATES,"Des Moines, Iowa, United States",MichaelAnnett,nan value,nan value,sc
+777,a02a44f5-eb45-4dcc-8c71-4a35bfaf31bf,Ryan,Reed,Ryan Reed,1993-08-12,2014.0,M,UNITED STATES,"Bakersfield, California, United States",driverRyanReed,nan value,nan value,sc
+778,aee2919b-4d67-4e42-a4df-1f9867728e8f,Jeff,Green,Jeff Green,1962-09-06,1994.0,M,UNITED STATES,"Owensboro, Kentucky, United States",nan value,68.0,190.0,sc
+779,d513c371-f43b-4a44-80f3-ea4af863c5d2,Kyle,Fowler,Kyle Fowler,1992-06-07,2014.0,M,UNITED STATES,"Smyrna, Georgia, United States",nan value,nan value,nan value,sc
+780,309f3d19-0217-40a7-9769-75f3750d6bec,Mike,Bliss,Mike Bliss,1965-04-05,1998.0,M,UNITED STATES,"Milwaukie, Oregon, United States",mikebliss36,73.0,nan value,sc
+781,3c731d6e-9acb-4ae9-9333-df5c404eb099,Travis,Kvapil,Travis Kvapil,1976-03-01,2005.0,M,UNITED STATES,"Janesville, Wisconsin, United States",traviskvapil,72.0,nan value,sc
+782,4d5ede64-88da-4381-a164-13880230f74a,Johnny,Sauter,Johnny Sauter,1978-05-01,2009.0,M,UNITED STATES,"Necedah, Wisconsin, United States",JohnnySauter,71.0,nan value,sc
+783,bf540c9f-3196-4343-95dd-616ac3f6a5df,Ron,Hornaday,Ron Hornaday Jr,1958-06-20,1973.0,M,UNITED STATES,"Palmdale, California, United States",RonHornaday,71.0,nan value,sc
+784,4d0ce6cc-b1f6-4118-86e8-bfa501d8e1bb,Mike,Wallace,Mike Wallace,1959-03-10,1992.0,M,UNITED STATES,"St. Louis, Missouri, United States",MikeWallace01,72.0,nan value,sc
+785,46a69a3b-76d1-4c01-9aa3-6eab99e11558,Sam,Hornish,Sam Hornish Jr,1979-07-02,2007.0,M,UNITED STATES,"Defiance, Ohio, United States",SamHornish ,71.0,nan value,sc
+786,024ac1a6-a489-4ae9-8ae2-fe3b003dc526,Will,Kimmel,Will Kimmel III,1988-05-11,2015.0,M,UNITED STATES,"Sellersburg, Indiana, United States",nan value,nan value,nan value,sc
+787,113dcb7d-ac55-4f17-838b-9c7d313e1caf,Derek,White,Derek White,1970-12-09,2015.0,M,CANADA,"Kahnawake, , Canada",nan value,nan value,nan value,sc
+788,3c1c8459-ea46-4df5-b494-7b8072b70664,T.J.,Bell,T.J. Bell,1980-08-25,2003.0,M,UNITED STATES,"Reno, Nevada, United States",TJBell_racing,nan value,nan value,sc
