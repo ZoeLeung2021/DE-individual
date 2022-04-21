@@ -1,0 +1,80 @@
+# =============================================================================
+# 0. Marquez environment variables requirements:
+# =============================================================================
+
+# How to set up environments in Linux
+export MARQUEZ_BACKEND=HTTP
+export MARQUEZ_URL=http://localhost:5000
+export MARQUEZ_LOG_LEVEL=INFO
+export MARQUEZ_NAMESPACE=my-namespace
+
+
+# =============================================================================
+# 1. Airflow Container:
+# =============================================================================
+
+# Docker image to use: puckel/docker-airflow puckel/docker-airflow with tag 1.10.9
+https://hub.docker.com/r/puckel/docker-airflow/tags?page=1&ordering=last_updated 
+
+
+# Mounting volumes in docker container
+-v /your/local/file/path/to/your/airflow/dags/:/usr/local/airflow/dags
+
+# Passing environment variables:
+-e export MARQUEZ_BACKEND=HTTP
+
+# Putting all together
+docker run -d -p 8080:8080 -v /your/local/file/path/to/your/airflow/dags/:/usr/local/airflow/dags \
+-e export MARQUEZ_BACKEND=HTTP -e export MARQUEZ_URL=http://localhost:5000 \ 
+-e export MARQUEZ_LOG_LEVEL=INFO -e export MARQUEZ_NAMESPACE=my-namespace \ 
+--name container_name puckel/docker-airflow:1.10.9 webserver
+
+
+# Passing environment variables with a file
+docker run -d -p 8080:8080 -v C:/working/DE_individual/apache_airflow/airflow/dag/:/usr/local/airflow/dags --env-file C:/working/DE_individual/apache_airflow/env.list puckel/docker-airflow:1.10.9 webserver
+
+
+# =============================================================================
+# 2. Marquez Container:
+# =============================================================================
+
+# Clone the official marquez repository:
+git clone https://github.com/MarquezProject/marquez.git
+
+# change the directory to the directory where marquez is:
+cd marquez
+
+# Start the container:
+./docker/up.sh
+
+
+# =============================================================================
+# Extra: Useful docker commands
+# =============================================================================
+
+# Enter container root user
+docker exec -u 0 -it optimistic_ganguly /bin/bash
+
+# Enter container as default users or user executing everything
+docker exec -it vigorous_bassi /bin/bash
+
+# List all the running containers
+docker ps
+
+# List all the containers (running and stopped)
+docker ps -aq
+
+# Stop all running containers
+docker stop $(docker ps -aq)
+
+# =============================================================================
+# URLS with information and documentation of interest
+# =============================================================================
+
+#### MARQUEZ
+https://github.com/MarquezProject
+https://marquezproject.github.io/marquez/quickstart.html
+https://github.com/MarquezProject/marquez/blob/main/integrations/airflow/test-requirements.txt
+
+#### DOCKER
+https://hub.docker.com/r/puckel/docker-airflow/tags?page=1&ordering=last_updated
