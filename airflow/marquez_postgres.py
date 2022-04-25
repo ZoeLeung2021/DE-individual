@@ -40,7 +40,7 @@ default_args = {
 
 dag = DAG('marquez_postgres',
           description='Test postgres operations',
-          schedule_interval='@hourly',
+          schedule_interval='@weekly',
           catchup=False,
           default_args=default_args,
           max_active_runs=1)
@@ -129,9 +129,9 @@ def query_save_result(**kwargs):
 
 
 import boto3
+import csv
     
 def insert_personal_info_data_func (**kwargs):
-    
     log.info('received:{0}'.format(kwargs))
     log.info('default arguments received:{0}'.format(kwargs))
     print('default arguments',kwargs)
@@ -150,18 +150,19 @@ def insert_personal_info_data_func (**kwargs):
 
     pg_hook=PostgresHook(postgres_conn_id=kwargs["postgres_conn_id"],schema=kwargs['db_name'])
     connection=pg_hook.get_conn()
+    cursor=connection.cursor()
 
-    with connection.cursor() as cur:
-        for emp in data: 
-            try:
-                emp = emp.replace("\n","").split(",")
-                print (">>>>>>>"+str(emp))
-                cur.execute('insert into nascar.personal_info (id, driver_id, first_name, last_name, full_name, gender, height, weight, birthday, birth_place, country) values("'+str(emp[1])+'")')
+    for row in data:
+        try:
+            row=row.replace("\n","").split(",")
+            for i in range(1, len(row)):
+                cursor.execute('insert into personal_info values(str(row)[i])')
                 connection.commit()
-            except:
-                continue
-    if connection:
-        connection.commit()
+        except:
+            continue
+        print(str(row)[1])
+    print(cursor.rowcount,"insert successfully")
+
 
 
 
