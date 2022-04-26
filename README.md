@@ -1,4 +1,4 @@
-# Outine and explanation of DE-individual Nascar project
+# Outline and explanation of DE-individual Nascar project
 
 **1. Data collection**
 
