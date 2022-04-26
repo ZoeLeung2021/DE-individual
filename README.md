@@ -1,25 +1,27 @@
-# DE-individual
+# Outine and explanation of DE-individual Nascar project
 
 **1. Data collection**
 
 1.1 Jupyter notebook: 
 - API_with_func.ipynb
 - Web_scrpaing.ipynb
-- Data_collection.ipynb (Combing the above two notebook, written with comment)
+- Data_collection.ipynb (Combing the above two notebook, written with comment)<----Important
 
 1.2 CSV files:
-- collection_output (2 main data frame: driver_stats & driver_standings)
+- collection_output (2 main data frame: driver_stats & driver_standings)<---Important
 - other_csv (intermediate output during the collection stage)
 
 **2. Data storage**
-2.1 airflow folder
+
+2.1 airflow folder (write schema and data into database, query from the database)
 2.2 schema.sql
-2.3 data_storage.ipynb
+2.3 data_storage.ipynb (store in parquet format and write data into database)
 
 **3.ML**
+
 3.1 Notebook (the below two are 90% same except the specify ones)
 - Databricks_Preprocessing_and_ML_with_UI_tracking (with UI interface screenshot)
-- Databricks_Preprocessing_and_ML_pipeline (with Deployment)
+- Databricks_Preprocessing_and_ML_pipeline (with Deployment) <---Important
 
 3.2 Pyhton script:
 - model_api.py (serve with Model API)
